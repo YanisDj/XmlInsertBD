@@ -1,0 +1,78 @@
+-- MySQL dump 10.13  Distrib 8.0.20, for Win64 (x86_64)
+--
+-- Host: localhost    Database: dindexdb
+
+--
+-- Table structure for table `affiliation`
+
+
+CREATE SCHEMA dblp;
+
+
+DROP TABLE IF EXISTS dblp.affiliation;
+CREATE TABLE dblp.affiliation (
+  idAff int NOT NULL,
+  name text NOT NULL,
+  country text,
+  PRIMARY KEY (idAff)
+);
+
+
+DROP TABLE IF EXISTS dblp.authors;
+CREATE TABLE dblp.authors(
+  id int NOT NULL,
+  name varchar(40) NOT NULL,
+  firstpaper int DEFAULT NULL, -- année première publication
+  lastpaper int DEFAULT NULL, -- année dernière publication
+  affiliation int DEFAULT NULL,
+  PRIMARY KEY (id),
+  FOREIGN KEY (affiliation) REFERENCES dblp.affiliation(idAff)
+);
+
+-- si 2 auteurs ont collaboré au moins une fois, l'information est incluse ici (sans trace de la date)
+DROP TABLE IF EXISTS dblp.coauthors;
+CREATE TABLE dblp.coauthors (
+  author_id int NOT NULL,
+  coauthor_id int NOT NULL, 
+  PRIMARY KEY (author_id,coauthor_id),
+  FOREIGN KEY (author_id) REFERENCES dblp.authors (id),
+  FOREIGN KEY (coauthor_id) REFERENCES dblp.authors (id)
+);
+
+
+
+
+
+DROP TABLE IF EXISTS dblp.publications;
+CREATE TABLE dblp.publications (
+  id int NOT NULL, 
+  title varchar(150) DEFAULT NULL, -- titre de la publication
+  year int DEFAULT NULL, -- année de la publications
+  venue varchar(45) DEFAULT NULL, -- où elle a été publiée
+  nauthor int DEFAULT NULL,  -- nombre auteurs
+  type varchar(20) DEFAULT NULL, -- typologie de la publication (livre, conference..etc).
+  PRIMARY KEY (id)
+);
+
+-- ici on stocke les informations à propos des auteurs de chaque publication
+DROP TABLE IF EXISTS dblp.publicationauthors;
+CREATE TABLE dblp.publicationauthors (
+  author_id int,
+  publication_id int,
+  PRIMARY KEY (author_id,publication_id),
+  FOREIGN KEY (author_id) REFERENCES dblp.authors (id),
+FOREIGN KEY (publication_id) REFERENCES dblp.publications (id)
+);
+
+
+DROP TABLE IF EXISTS dblp.publicationdetails;
+CREATE TABLE dblp.publicationdetails (
+  publication_id int, 
+  authors int DEFAULT NULL, -- nombre auteurs de la publications
+  mdate varchar(45) DEFAULT NULL, -- date de la pub (année-mois-jour)
+  key_id varchar(100) DEFAULT NULL, -- id local extrait du fichier xml
+  PRIMARY KEY (publication_id) ,
+  FOREIGN KEY (publication_id) REFERENCES dblp.publications (id)
+);
+
+	

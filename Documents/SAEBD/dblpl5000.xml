@@ -1,0 +1,5001 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<data mdate="2023-03-15" key="data/10/Lu22c">
+<author orcid="0000-0001-9742-4173">Peggy Joy Lu</author>
+<title>MI3.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/0ndm-6g50</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HomoliakH22">
+<author orcid="0000-0002-0790-0875">Ivan Homoliak</author>
+<author orcid="0000-0001-5507-0768">Petr Hanaaacute;cek</author>
+<title>ASNM Datasets: A Collection of Network Traffic Data for Testing of Adversarial Classifiers and Network Intrusion Detectors.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/081t-dj23</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/KimK22">
+<author orcid="0000-0001-7505-7931">TaeYoung Kim</author>
+<author orcid="0000-0002-0608-5397">Hyung-Jong Kim</author>
+<title>Experimental dataset for the Performance Evaluation for Geographically Distributed Blockchain-based Services in a Cloud Computing Environment.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/b7mg-yb75</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Godio21">
+<author>Simone Godio</author>
+<title>Visual Inertial Odometry Sensor Fusion Approach for Autonomous Localization.</title>
+<year>2021</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/10av-kj18</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AbbasiKAFKHK20">
+<author>Aneesa Abbasi</author>
+<author>Nabeel Sabir Khan</author>
+<author>Adnan Abid</author>
+<author>Muhammad Shoaib Farooq</author>
+<author>Yaser Daanial Khan</author>
+<author>Bilal Hassan</author>
+<author>Awais Kamran</author>
+<title>CONSTRAINT BASED NLP ENGINE.</title>
+<year>2020</year>
+<month>February</month>
+<ee type="oa">https://doi.org/10.21227/e504-pc12</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AbdulaalCPG19">
+<author>Mohammed J. Abdulaal</author>
+<author>Alexander J. Casson</author>
+<author>Keith Philips</author>
+<author>Patrick Gaydecki</author>
+<title>Classification of violin type using electroencephalography and machine learning to determine violin quality perception.</title>
+<year>2019</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/nabk-vz16</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DhruvaBCM22">
+<author orcid="0000-0001-6573-3596">Anantha Datta Dhruva</author>
+<author orcid="0000-0001-9219-2588">Sarath Babu 0001</author>
+<author orcid="0000-0003-1248-9280">Abhishek Chakraborty 0002</author>
+<author orcid="0000-0002-1233-1646">B. S. Manoj 0001</author>
+<title>Architectural Comparison of Selected 59 IoT Computing Boards.</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/jf6q-k239</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sustainability19">
+<author>Mayor Office of Sustainability</author>
+<title>Energy and Water Data Disclosure.</title>
+<year>2019</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/865j-1t31</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Bai22">
+<author orcid="0000-0002-6177-3862">Cong Bai</author>
+<title>Real-Life Diabetogenic Database.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/h6zz-mn96</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sinha23b">
+<author orcid="0000-0003-0592-8505">Rakesh Sinha</author>
+<title>Phase Shifting Matching Network Designer.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/128z-6625</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wu22c">
+<author orcid="0000-0002-6899-5601">Jiang Wu</author>
+<title>Supplementary files.</title>
+<year>2022</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/qmm0-vg62</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhangSZ22">
+<author orcid="0000-0002-7694-9883">Xiaolin Zhang</author>
+<author orcid="0000-0001-8625-6805">Jianting Sun</author>
+<author orcid="0000-0003-3994-0692">Xiaotong Zhang</author>
+<title>Data of novel features and FS_DT-SSVM.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/0m92-z416</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/CippitelliGGS18">
+<author>Enea Cippitelli</author>
+<author>Ennio Gambi</author>
+<author>Samuele Gasparrini</author>
+<author>Susanna Spinsante</author>
+<title>TST Intake Monitoring dataset v2.</title>
+<year>2018</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/H2BC7W</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/OdoMBK22">
+<author orcid="0000-0001-7345-8133">Anicetus Odo</author>
+<author orcid="0000-0002-8139-8668">Ramon Muns</author>
+<author orcid="0000-0001-7080-1776">Laura Boyle</author>
+<author orcid="0000-0001-7703-3626">Ilias Kyriazakis</author>
+<title>Ear biting in pigs - a welfare challenge.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/qy7j-cq11</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Pulido20">
+<author orcid="0000-0002-0441-9402">Juan Antonio Gaoacute;mez Pulido</author>
+<title>Sensor readings for ambient control in academic facilities.</title>
+<year>2020</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/5dmd-ke09</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BanuI22">
+<author orcid="0000-0002-7722-8017">Ioan Viorel Banu</author>
+<author>Marcel Istrate</author>
+<title>Islanding Prevention Scheme for Grid-Connected Photovoltaic Systems in Matlab/Simulink.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/H28W5P</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wang20a">
+<author orcid="0000-0002-0310-4193">Dongwei Wang</author>
+<title>Switched-Beam End-Fire Antenna Array Fed by Wideband Via-Less Butler Matrix Based on Liquid Crystal Technology.</title>
+<year>2020</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/4v4k-k673</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Chen19">
+<author orcid="0000-0002-7145-6676">Qijin Chen</author>
+<title>Data and code for the manuscript" Estimation of IMU mounting angles for land vehicular GNSS/INS integrated system".</title>
+<year>2019</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/ts0j-3j38</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZarrinRW22">
+<author orcid="0000-0002-9245-9227">Pouya Soltani Zarrin</author>
+<author>Niels Raouml;ckendorf</author>
+<author>Christian Wenger</author>
+<title>Exasens: a novel dataset for the classification of saliva samples of COPD patients.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/7t0z-pd65</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DeshpandeR21">
+<author>Himani S. Deshpande</author>
+<author>Leena Ragha</author>
+<title>Mother's Significant Feature (MSF) Dataset.</title>
+<year>2021</year>
+<month>April</month>
+<ee type="oa">https://doi.org/10.21227/kq5k-b784</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BhagwatPVPRM22">
+<author orcid="0000-0001-6731-693X">Laxmi Bhagwat</author>
+<author>Balaji Patil</author>
+<author>Aditya Vihite</author>
+<author>Anagha Patil</author>
+<author>Shraddha R</author>
+<author>Mrunmaee M</author>
+<title>Ransomware API calls.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/a468-w112</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Nguyen22b">
+<author orcid="0000-0001-8493-2240">Huu-Thanh Nguyen 0003</author>
+<title>FoodCounting.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/hwz4-1238</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/RughooburSIA22">
+<author orcid="0000-0002-1693-4532">Girish Rughoobur</author>
+<author>Alvaro Sahagun</author>
+<author>Olusoji Ilori</author>
+<author>Akintunde Ibitayo Akinwande</author>
+<title>Nanofabricated Low-Voltage Gated Si Field Ionization Arrays Data.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/kzkm-7v82</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/NikovMVBNE22">
+<author orcid="0000-0001-5628-5752">Kris Nikov</author>
+<author>Marcos Martaiacute;nez</author>
+<author>Pedro Vallejo</author>
+<author>Abel Balbis</author>
+<author orcid="0000-0002-5153-5481">Josaeacute; L. Nauacute;antilde;ez-Yaaacute;antilde;ez</author>
+<author>Kerstin Eder</author>
+<title>GR712RC LEON3 Power Model Data.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/1y7r-am78</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zerara21">
+<author>Mohamed Zerara</author>
+<title>Water consumption.</title>
+<year>2021</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/a64c-tv13</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BongelliBFRMBC22">
+<author>Ramona Bongelli</author>
+<author>Roberto Burro</author>
+<author>Alessandra Fermani</author>
+<author>Ilaria Riccioni</author>
+<author>Morena Muzi</author>
+<author>Alessia Bertolazzi</author>
+<author>Carla Canestrari</author>
+<title>Italian validation of the situational Brief Cope Scale (I-Brief Cope).</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/fyzv-w953</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/OuLLHP23">
+<author>Qiang Ou</author>
+<author>Longfu Luo</author>
+<author>Yong Li 0016</author>
+<author>Rong Han</author>
+<author>Yanjian Peng</author>
+<title>An Improved Radial Buckling Analysis Method and Test Investigation for Power Transformer under Short Circuit Impact.</title>
+<year>2023</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/t80s-ha24</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LiZYQ21">
+<author>Jack Yutong Li</author>
+<author>Ruoqing Zhu</author>
+<author>Mike Yeh</author>
+<author>Annie Qu</author>
+<title>Dermoscopic Dataset for the "Dermoscopic Image Classification with Neural Style Transfer" Manuscript.</title>
+<year>2021</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/10k4-3p31</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Cheng18">
+<author>Huanyu Cheng</author>
+<title>programableweb.</title>
+<year>2018</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/j1t4-k381</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/NowrooziAMC22">
+<author orcid="0000-0002-5714-8378">Ehsan Nowroozi</author>
+<author>Abhishek</author>
+<author orcid="0000-0002-8470-3277">Mohammadreza Mohammadi</author>
+<author orcid="0000-0002-3612-1934">Mauro Conti</author>
+<title>Pristine and Malicious URLs.</title>
+<year>2022</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/2ph5-xc09</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Liu22d">
+<author>Yong Liu</author>
+<title>Assembly Gestures of the decelerator shaft parts.</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/gda4-8d15</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sharma22">
+<author>Anmol Sharma</author>
+<title>ezyzip.zip.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/gheb-zx67</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LinZYH22">
+<author>Jia-Rui Lin</author>
+<author>Yu-Cheng Zhou</author>
+<author>Ke-Xiao Yan</author>
+<author>Zhen-Zhong Hu</author>
+<title>IDFire: Image Dataset for Indoor Fire Load Recognition.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/qkk3-2145</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Liu22u">
+<author orcid="0000-0003-1650-9170">Kaijun Liu</author>
+<title>Demands for bus ridesharing in Shanghai, China.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/2877-mk46</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AlaLaurinahoK22">
+<author orcid="0000-0002-3246-8199">Riku Ala-Laurinaho</author>
+<author orcid="0000-0002-1399-3772">Tuomas Keski-Heikkilaauml;</author>
+<title>Driving Smart Crane With Various Loads.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/6b9d-tr16</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Alkawsi19">
+<author>Gamal Alkawsi 0001</author>
+<title>Smart Meter Acceptance in Malaysia.</title>
+<year>2019</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/c9e4-g326</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/RamirezMorenoCC22">
+<author orcid="0000-0003-0306-2971">Mauricio Adolfo Ramaiacute;rez-Moreno</author>
+<author orcid="0000-0002-8440-6416">Jesus G. Cruz-Garza</author>
+<author orcid="0000-0002-6499-1208">Josaeacute; L. Contreras-Vidal</author>
+<title>Mobile EEG recordings of musical (jazz) improvisation.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/hx73-7159</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Gu22">
+<author>Sharing Gu</author>
+<title>Sentiment Analysis datasets.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/2k6z-7d82</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BehWW21">
+<author orcid="0000-0002-3574-8911">Win-Ken Beh</author>
+<author>Yi-Hsuan Wu</author>
+<author>An-Yeu Andy Wu</author>
+<title>MAUS: A Dataset for Mental Workload Assessment on N-back task Using Wearable Sensor.</title>
+<year>2021</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/q4td-yd35</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Nguyen20b">
+<author>Huyen N. Nguyen</author>
+<title>ProcMon log file.</title>
+<year>2020</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/42qb-da14</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhouBYXH20">
+<author>Pengfei Zhou</author>
+<author>Cong Bai</author>
+<author>Kaining Ying</author>
+<author>Jie Xia</author>
+<author>Lixin Huang</author>
+<title>RWMF: A Real-World Multimodal Foodlog Database.</title>
+<year>2020</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.21227/z82q-vp72</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TangSSX20">
+<author orcid="0000-0002-6460-0246">Chunlei Tang</author>
+<author>Dan Shi</author>
+<author>Xiao Shi</author>
+<author>Yun Xiong</author>
+<title>An annotated dataset of tongue images.</title>
+<year>2020</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.21227/mtt8-q366</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BelkacemMG22">
+<author>Ilyasse Belkacem</author>
+<author orcid="0000-0002-7419-8748">Nicolas Maeacute;doc</author>
+<author orcid="0000-0001-6745-3651">Mohammad Ghoniem</author>
+<title>Reduced Corpus on Interactive Visualization on Large High-Resolution Displays.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/1aqm-xr17</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Stephan18">
+<author>Matthew Stephan</author>
+<title>Data for Emerging Trends in Collaborative Modelling: A Survey.</title>
+<year>2018</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/H25D2S</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhang20d">
+<author>Haijun Zhang</author>
+<title>Causal knowledge graph based on rules.</title>
+<year>2020</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/5rza-t552</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Chen20g">
+<author>Silu Chen</author>
+<title>Cartesian_robot_calibration_experiment_data.</title>
+<year>2020</year>
+<month>April</month>
+<ee type="oa">https://doi.org/10.21227/yxdw-jp45</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-16" key="data/10/GradovO18">
+<author>Oleg Gradov</author>
+<author>Anatoliy Aleksandrovich Olkhov</author>
+<title>SEM-assisted (LVEM-assisted) isopotential mapping of the dielectric charging of the nonwoven fabric structures using Sobel-Feldman operator (Sobel filter).</title>
+<year>2018</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/tjfe-ry55</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/FlorenciasOliverosERPSF18">
+<author>Olivia Florencias-Oliveros</author>
+<author>Manuel-Jesus Espinosa-Gavira</author>
+<author>Juan Josaeacute; Gonzaaacute;lez de la Rosa</author>
+<author>A. Agauuml;era Paeacute;rez</author>
+<author>Josaeacute; Carlos Palomares Salas</author>
+<author>Josaeacute; Maraiacute;a Sierra Fernaaacute;ndez</author>
+<title>Real-life Power Quality Transients.</title>
+<year>2018</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/H2Q30W</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-19" key="data/10/AndionNL19">
+<author orcid="0000-0001-5683-6403">Javier Andiaoacute;n</author>
+<author orcid="0000-0003-3408-7143">Josaeacute; Manuel Navarro</author>
+<author orcid="0000-0001-9689-4798">Juan Carlos Dueantilde;as Laoacute;pez</author>
+<title>Computer Network Events.</title>
+<year>2019</year>
+<month>September</month>
+<ee type="oa">https://doi.org/10.21227/dbgv-zz92</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Pu23">
+<author orcid="0000-0002-8408-9174">Yue Pu</author>
+<title>Dataset of Integrated Energy System and Container Logistics System in a Port.</title>
+<year>2023</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/nv74-9738</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wang19e">
+<author>Mingbo Wang</author>
+<title>Origin files for manscript entitled "Effect of Solid Particles on the Loss Circulation of Drilling Fluid: A Numerical Simulation".</title>
+<year>2019</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/15zx-8781</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Safari22">
+<author>Ashkan Safari</author>
+<title>Intelligent Forecasters: Data Analytical Tools Utilized to Have Financial Investments for Smart Cities Investors.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/5yz4-8816</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ThakurD21">
+<author>Rajat Thakur</author>
+<author>Charanjeet Dhawan</author>
+<title>Covid-19 news.</title>
+<year>2021</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/54rq-h262</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Piperigkos22">
+<author>Nikos Piperigkos</author>
+<title>Realistic vehicle trajectories and driving parameters from CARLA autonomous driving simulator.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/f43v-ww19</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Duan20">
+<author orcid="0000-0002-0716-5233">Xueyang Duan</author>
+<title>Supporting data for the Datacube Parametrization-Based Model for Rough Surface Polarimetric Bistatic Scattering.</title>
+<year>2020</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/hg2q-b864</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Gradov19o">
+<author>Oleg Gradov</author>
+<title>a#1057;a#1050;a#1044;-a#1057;a#1050;a#1053;-18 3/1.</title>
+<year>2019</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/abaq-te56</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LiHZLHLM22">
+<author orcid="0000-0002-1804-7224">Nan Li</author>
+<author orcid="0000-0002-1436-2219">Qiang Han</author>
+<author>Yangyang Zhang</author>
+<author>Cong Li</author>
+<author>Yu He</author>
+<author>Haide Liu</author>
+<author>Zijian Mao</author>
+<title>Data for the manuscript "Standardization Workflow Technology of Software Testing Processes and Its Application to SRGM on RSA Timing Attack Tasks".</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/0mrr-kq06</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ChenL21">
+<author orcid="0000-0003-2548-7196">Silu Chen 0001</author>
+<author orcid="0000-0002-2431-3082">Jingbo Luo</author>
+<title>Data for Kinematic Calibration of a 4PPa-2PaR Parallel Mechanism with Subchains on Limbs.</title>
+<year>2021</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/6a85-nk25</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Lu20">
+<author>Hao Lu</author>
+<title>Method of Setting Exit Advance Guide Signs in Highway Tunnels Based on Driver's Eye Movement with Markov Chain.</title>
+<year>2020</year>
+<month>November</month>
+<ee type="oa">https://doi.org/10.21227/zgyb-nb16</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LaviadaNL22">
+<author orcid="0000-0002-6501-4353">Jaime Laviada</author>
+<author orcid="0000-0001-9286-4372">Guillermo aAacute;lvarez Narciandi</author>
+<author orcid="0000-0001-7959-2114">Fernando Las-Heras</author>
+<title>Synthetic aperture radar images for cGAN training.</title>
+<year>2022</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/5gzt-cm67</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhang21a">
+<author orcid="0000-0003-4414-608X">Zijian Zhang</author>
+<title>The BIM and point cloud of DATA 1.</title>
+<year>2021</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/5tgs-4d28</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LiangZKYS22">
+<author>Yingqi Liang</author>
+<author>Junbo Zhao</author>
+<author>Dhivya Sampath Kumar</author>
+<author>Ketian Ye</author>
+<author>Dipti Srinivasan</author>
+<title>Supplementary datasheet (TPWRS12).</title>
+<year>2022</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/5mr7-p631</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Galbally22">
+<author orcid="0000-0002-2009-0256">Javier Galbally</author>
+<title>3D-FLARE DB: Two subjects.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/6wp4-9m22</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HsuYMMKF22">
+<author orcid="0000-0003-1207-3250">Brandon Hsu</author>
+<author orcid="0000-0001-8329-3299">Shih-Yuan Yu</author>
+<author orcid="0000-0002-4974-1622">Arnav V. Malawade</author>
+<author orcid="0000-0002-7218-4545">Deepan Muthirayan</author>
+<author orcid="0000-0001-6634-6950">Pramod P. Khargonekar</author>
+<author orcid="0000-0002-5390-0497">Mohammad Abdullah Al Faruque</author>
+<title>SceneGraph-Risk-Assessment dataset.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/c0z9-1p30</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HanadaKF18">
+<author>Grant M. Hanada</author>
+<author>Marija Kalabic</author>
+<author>Daniel P. Ferris</author>
+<title>Mobile Brain-Body Imaging during Indoor Treadmill Walking and Outdoor Overground Walking with a Visual Search Task.</title>
+<year>2018</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/H24T0V</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhouL19">
+<author>Guolin Zhou</author>
+<author>Yuxi Luo</author>
+<title>"Real-Time Impact of Sleep Apnea/hypopnea on the Interaction Between Various Cortical Areas" supporting data.</title>
+<year>2019</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/0wc8-4r42</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TorresTelloGK22">
+<author orcid="0000-0001-9694-6578">Julio Torres-Tello</author>
+<author>Ana V. Guamaaacute;n</author>
+<author>Seok-Bum Ko</author>
+<title>Mixed explosives dataset.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/exkq-c076</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Hu21">
+<author>Kaiyan Hu</author>
+<title>Self-potential and GNSS data recorded on a post-failure landslide.</title>
+<year>2021</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/9vrc-na76</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JiangH22">
+<author>Yuqiu Jiang</author>
+<author>Yangpingqing Hu</author>
+<title>MRO_rawdata.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/ykx9-df12</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DabhiSPSP20">
+<author orcid="0000-0002-4364-9892">Shrey Dabhi</author>
+<author orcid="0000-0002-9553-4835">Kartavya Soni</author>
+<author orcid="0000-0001-7402-6092">Utkarsh Patel</author>
+<author orcid="0000-0002-1934-5805">Priyanka Sharma</author>
+<author orcid="0000-0002-1183-4399">Manojkumar Parmar</author>
+<title>Virtual SAR: A Synthetic Dataset for Deep Learning based Speckle Noise Reduction Algorithms.</title>
+<year>2020</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/asth-ra98</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HanleyOZKWB20">
+<author>David Hanley</author>
+<author>Augusto S. Dantas de Oliveira</author>
+<author>Xiangyuan Zhang</author>
+<author>Dae Hyun Kim 0006</author>
+<author>Yusheng Wei</author>
+<author>Timothy Bretl</author>
+<title>The Impact of Height on Indoor Positioning with Magnetic Fields.</title>
+<year>2020</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/t881-7581</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HeshmatA21">
+<author orcid="0000-0002-0022-2178">Samia Heshmat</author>
+<author>Mohamed Abdelnafea</author>
+<title>AOLAH Databases for Online Arabic Characters and Arabic Characters Strokes.</title>
+<year>2021</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/krmm-yp09</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/YouLPY22">
+<author>Lei You</author>
+<author>Qi Liao 0003</author>
+<author>Nikolaos Pappas 0001</author>
+<author>Di Yuan 0001</author>
+<title>2D Resource Allocation.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/ch8e-x385</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zarif21">
+<author>Amir Hossein Zarif</author>
+<title>AoI Minimization in Energy Harvesting and Spectrum Sharing Enabled 6G Networks.</title>
+<year>2021</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/aynt-my59</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhangL22">
+<author>Zhenyu Zhang</author>
+<author>Yong Li</author>
+<title>Non-intrusive load monitoring datasets for two industrial scenarios.</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/7b5a-g160</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Hwang21a">
+<author orcid="0000-0002-9737-8864">Eli Hwang</author>
+<title>Massive User Transmission Enabled Combinatorial Based Non-Orthogonal Multiple Access Wireless Networks With Theoretical Analysis simulation.</title>
+<year>2021</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/b8am-qv75</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JunLLK22">
+<author orcid="0000-0002-8757-2014">Kooksung Jun</author>
+<author orcid="0000-0001-8363-3054">Sanghyub Lee</author>
+<author orcid="0000-0001-8787-5608">Deok-Won Lee</author>
+<author orcid="0000-0002-6050-6594">Mun Sang Kim</author>
+<title>Azure Kinect 3D skeleton and foot pressure data for pathological gaits.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/ev8a-wr16</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Liu21a">
+<author>Chenglong Liu</author>
+<title>COVID-19Dataset.</title>
+<year>2021</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/16sk-kv49</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Chen19c">
+<author>Xiaolu Chen</author>
+<title>Tennessee Eastman simulation dataset.</title>
+<year>2019</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/4519-z502</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/NegiR19">
+<author orcid="0000-0001-5707-130X">Atul Negi</author>
+<author>Anish M. Rao</author>
+<title>Offline Handwritten Telugu Characters.</title>
+<year>2019</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/zhbj-g291</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Jain21">
+<author>Seemandhar Jain</author>
+<title>MIMIC dataset for Anomaly detection.</title>
+<year>2021</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/q0mg-6961</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JooshakiLFMCA21">
+<author>Mohammad Jooshaki</author>
+<author>Matti Lehtonen</author>
+<author>Mahmud Fotuhi-Firuzabad</author>
+<author>Gregorio Muantilde;oz-Delgado</author>
+<author>Javier Contreras</author>
+<author>Josaeacute; Manuel Arroyo</author>
+<title>Distribution Test Systems for Reliability Assessment.</title>
+<year>2021</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/qhq1-gp87</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Dalai20">
+<author>Radhamadhab Dalai</author>
+<title>Data set for various metal types.</title>
+<year>2020</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/n4z9-d866</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wiguna20a">
+<author orcid="0000-0003-4949-9001">Wildan Wiguna</author>
+<title>Decision Tree of Coronavirus Disease (COVID-19) Surveillance.</title>
+<year>2020</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/remc-6d63</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Moniot22">
+<author>Matthew Moniot</author>
+<title>Ride-hailing DCFC Demands by US City.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/9zzb-2943</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/KeamGVI21">
+<author orcid="0000-0001-8196-4247">Bhumsuk Keam</author>
+<author orcid="0000-0003-2589-092X">Olena Gorobets</author>
+<author orcid="0000-0002-6403-6120">Vincent Vinh-Hung</author>
+<author orcid="0000-0002-5396-6533">Seock-Ah Im</author>
+<title>Lymph Node Ratio after Neoadjuvant Chemotherapy for Stage II/III Breast Cancer.</title>
+<year>2021</year>
+<month>October</month>
+<ee type="oa">https://doi.org/10.21227/mg5y-7c64</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Beard20">
+<author orcid="0000-0003-4430-8704">James K. Beard</author>
+<title>Database of Singular Value Decompositions of Matrix Representations of the Costas Condition.</title>
+<year>2020</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/h498-px29</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AghdamRSETGT20">
+<author orcid="0000-0002-2849-1070">Ehsan Khodapanah Aghdam</author>
+<author orcid="0000-0003-4624-6922">Mohammadreza Riahi</author>
+<author orcid="0000-0001-7833-7381">Seyed Hamid Safavi</author>
+<author orcid="0000-0002-6570-2826">Mohammad Eslami</author>
+<author orcid="0000-0002-3051-0605">Solale Tabarestani</author>
+<author orcid="0000-0002-2910-9208">Seyed Ali Ghorashi</author>
+<author orcid="0000-0002-6503-1073">Farah Torkamani-Azar</author>
+<title>DiSPLaY Multimodal MedSLset (Medical Sign Language Set).</title>
+<year>2020</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.21227/5gsb-fb69</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PradhanHJ22">
+<author orcid="0000-0003-1175-7984">Ashirbad Pradhan</author>
+<author>Jiayuan He 0001</author>
+<author>Ning Jiang</author>
+<title>Gesture Recognition and Biometrics Electromyography (GRABMyo) Dataset.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/82v9-2b79</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Ren23">
+<author>Yan Ren</author>
+<title>Hydraulic valve fault diagnosis vibration data.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/wnps-pa25</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BuschhoffBWB21">
+<author>Anna-Sophia Buschhoff</author>
+<author>Igor Barg</author>
+<author>Peer Wulff</author>
+<author orcid="0000-0001-8012-6794">Andreas Bahr</author>
+<title>EEG of Genetic Absence Epilepsy Rats (GAERS).</title>
+<year>2021</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/y1me-az56</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SaenzGS21">
+<author>Julio A. Saenz</author>
+<author>Sindhu Reddy Kalathur Gopal</author>
+<author>Diksha Shukla</author>
+<title>Covid-19 Fake News Infodemic Research Dataset (CoVID19-FNIR Dataset).</title>
+<year>2021</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.21227/b5bt-5244</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AltuveS19">
+<author orcid="0000-0002-4064-2601">Miguel Altuve</author>
+<author orcid="0000-0002-9500-3532">Erika Severeyn</author>
+<title>Fasting and postprandial glucose and insulin dataset.</title>
+<year>2019</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/5g52-jc59</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DiasAudibertNODMGDRPWVRC20">
+<author>Flavia L. Dias-Audibert</author>
+<author orcid="0000-0002-8041-8743">Luiz C. Navarro</author>
+<author>Diogo N. Oliveira</author>
+<author>Jeany Delafiori</author>
+<author>Carlos F. O. R. Melo</author>
+<author>Tatiane M. Guerreiro</author>
+<author>Mohamed Z. Dabaja</author>
+<author>Flavia T. Rosa</author>
+<author>Diego L. Petenuci</author>
+<author>Maria A E. Watanabe</author>
+<author>Licio A Velloso</author>
+<author>Anderson de Rezende Rocha</author>
+<author>Rodrigo R. Catharino</author>
+<title>Combining machine learning and metabolomics to identify weight gain biomarkers.</title>
+<year>2020</year>
+<month>February</month>
+<ee type="oa">https://doi.org/10.21227/k446-fp12</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Chang22">
+<author>Peng Chang</author>
+<title>Program and Data.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/dq85-4067</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BhattaraiYGP22">
+<author>Bimal Bhattarai</author>
+<author>Rohan Kumar Yadav</author>
+<author>Hui-Seon Gang</author>
+<author>Jae-Young Pyun</author>
+<title>Geomagnetic Field Based Indoor Landmark Classification Using Deep Learning.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/af5g-4q23</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HollausR22">
+<author>Christian Hollaus</author>
+<author orcid="0000-0003-1996-0098">Sasko Ristov</author>
+<title>Deployment time of serverless functions on AWS and IBM.</title>
+<year>2022</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/rmyb-8x29</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DadwhalKS22">
+<author>Yogeshwar Dadwhal</author>
+<author>Satish Kumar</author>
+<author>Harish Kumar Sardana</author>
+<title>Simulated Disaster Victim (SDV1 aamp; SDV2) dataset.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/a5dm-y470</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AltheneyanM19">
+<author orcid="0000-0002-4148-1512">Alaa Saleh Altheneyan</author>
+<author orcid="0000-0001-5981-6299">Mohamed El Bachir Menai</author>
+<title>ArPC a corpus for paraphrase identification in Arabic text.</title>
+<year>2019</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/jtmt-zg81</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MeneghettiDPMCLGPJ20">
+<author orcid="0000-0002-0478-467X">Douglas De Rizzo Meneghetti</author>
+<author orcid="0000-0003-1560-6016">Pedro Henrique Silva Domingues</author>
+<author>Bruno de Freitas Vece Perez</author>
+<author>Thiago Spilborghs Bueno Meyer</author>
+<author>Kimberlin Kariny Gonaccedil;alves Cardoso</author>
+<author>Amanda Maciel de Lima</author>
+<author>Marina Yukari Gonbata</author>
+<author orcid="0000-0002-6512-3082">Fagner de Assis Moura Pimentel</author>
+<author orcid="0000-0002-5100-7443">Plinio Thomaz Aquino Junior</author>
+<title>Annotated image dataset of household objects from the RoboFEI@Home team.</title>
+<year>2020</year>
+<month>October</month>
+<ee type="oa">https://doi.org/10.21227/7wxn-n828</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wang21b">
+<author>Jingpei Wang</author>
+<title>Simulation data-A Trust Management Method against Abnormal Behavior of Industrial Control Networks under Active Defense Architecture.</title>
+<year>2021</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/cffm-ha76</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Brablc19">
+<author orcid="0000-0002-8675-8060">Martin Brablc</author>
+<title>Benchmarking Symbolic Regression and Local Linear Modelling Methods for Reinforcement Learning.</title>
+<year>2019</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/5v5e-jg39</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LawtonLC22">
+<author orcid="0000-0003-3137-8818">Patrick Lawton</author>
+<author orcid="0000-0002-8062-1936">Feiyang Lin</author>
+<author orcid="0000-0002-4480-7370">Grant Covic</author>
+<title>Magnetic Design Considerations for High-Power Wireless Charging Systems: 50 kW Experiment.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/e2tf-5095</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/You20a">
+<author>Dongdong You</author>
+<title>NPE Data for IEEE access 0307.</title>
+<year>2020</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/15qx-7251</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AloniS22">
+<author>Sukhada Aloni</author>
+<author>Divya Shekhawat</author>
+<title>Mobile Sensor Dataset for Human Activity Classification used in Forensics.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/njyt-t438</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Geva20">
+<author>Ran Geva</author>
+<title>free dataset from news/message boards/blogs about CoronaVirus (4 month of data - 5.2M posts).</title>
+<year>2020</year>
+<month>April</month>
+<ee type="oa">https://doi.org/10.21227/kc4v-q323</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Lee20">
+<author>Chris Lee</author>
+<title>signal on detection.</title>
+<year>2020</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/hhqj-q280</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Makonin21">
+<author orcid="0000-0002-7818-8301">Stephen Makonin</author>
+<title>AMPds2: The Almanac of Minutely Power dataset (Version 2).</title>
+<year>2021</year>
+<month>November</month>
+<ee type="oa">https://doi.org/10.21227/c2rq-bx53</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/FanUPNFPO20">
+<author>Yuchuan Fan</author>
+<author>Aleksejs Udalcovs</author>
+<author>Xiaodan Pang</author>
+<author>Carlos Natalino</author>
+<author>Marija Furdek</author>
+<author>Sergei Popov</author>
+<author>Oskars Ozolins</author>
+<title>2020_JOCN_Constellation_Dataset.</title>
+<year>2020</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/1684-a275</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Li22m">
+<author orcid="0000-0001-8828-632X">Junjie Li</author>
+<title>Labeled data of tracking evolution of static warnings.</title>
+<year>2022</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/tbk0-ct46</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhao22f">
+<author>Ruizhe Zhao</author>
+<title>NSL-KDD.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/8rpg-qt98</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Aytac21">
+<author>Utku Can Aytaaccedil;</author>
+<title>Brain Image Clinical Data.</title>
+<year>2021</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/k3tj-w517</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BertoglioA22">
+<author>Daniele Bertoglio</author>
+<author>Jordy Akkermans</author>
+<title>Demeaned images for SV2A ICA analysis.</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/8jda-j668</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/WangZ22">
+<author orcid="0000-0002-1513-7574">Ziwei Wang</author>
+<author>Xiaolei Zhong</author>
+<title>Data of enterprise alliances.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/s9cp-1e39</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/RamosP21">
+<author orcid="0000-0002-6482-2025">Gabryel S. Ramos</author>
+<author orcid="0000-0001-6916-700X">Milena Faria Pinto</author>
+<title>Shuttle Tanker, FPSO and FSO image dataset for ship recognition.</title>
+<year>2021</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/9xzy-fd09</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/GarzaFabreH22">
+<author orcid="0000-0002-7737-3011">Mario Garza-Fabre</author>
+<author orcid="0000-0002-4338-1806">Julia Handl</author>
+<title>Protein Structure and Synthetic Multi-view Clustering Datasets.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/sp55-pe68</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DaiLL22">
+<author>Zhihui Dai</author>
+<author>Shanshan Liu</author>
+<author>Yiran Li</author>
+<title>Standardized current and voltage of six-terminal ring flexible DC distribution system data.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/c9p3-rd16</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Alhammadi21">
+<author orcid="0000-0002-4280-8716">Ahmed Alhammadi</author>
+<title>EEG data collection experiment software.</title>
+<year>2021</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/2vna-ms53</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Delamare20">
+<author>Mickael Delamare</author>
+<title>0000-0003-0119-2326.</title>
+<year>2020</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/wpxw-6v26</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Topolanek22">
+<author orcid="0000-0001-9754-6867">David Topolanek</author>
+<title>Meshed LV distribution network.</title>
+<year>2022</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/kssw-1457</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SeoLPPHKKRBS23">
+<author>Yong-Sin Seo</author>
+<author>Jae-Young Lee</author>
+<author>Chanhun Park</author>
+<author>Jongwoo Park</author>
+<author>Byung-Kil Han</author>
+<author>Je-Sung Koh</author>
+<author>Uikyum Kim</author>
+<author>Hugo Rodrigue</author>
+<author>Jeongae Bak</author>
+<author orcid="0000-0002-8541-9534">Sung-Hyuk Song</author>
+<title>Supplementary materials and video files.</title>
+<year>2023</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/xps8-wv71</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Siddhartha20">
+<author orcid="0000-0002-3908-3152">Manu Siddhartha</author>
+<title>Bondora Peer-to-Peer Lending Data.</title>
+<year>2020</year>
+<month>November</month>
+<ee type="oa">https://doi.org/10.21227/33kz-0s65</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Suryotrisongko21">
+<author orcid="0000-0001-7792-6379">Hatma Suryotrisongko</author>
+<title>Botnet DGA Dataset.</title>
+<year>2021</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/rg6z-z622</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LionisPTSSNKA22">
+<author>Antonios Lionis</author>
+<author orcid="0000-0002-8772-2502">Kostas Peppas 0001</author>
+<author>Andreas Tsigkopoulos</author>
+<author>Antonios Sklavounos</author>
+<author>Argyris Stasinakis</author>
+<author>Hector E. Nistazakis</author>
+<author>Keith Kohn</author>
+<author>Konstantinos Aidinis</author>
+<title>Experimental Machine Learning Approach for Optical Turbulence and FSO Outage Performance Modeling.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/8bqw-gy72</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BoukthirQADA22">
+<author orcid="0000-0001-8049-268X">Khalil Boukthir</author>
+<author>Abdulrahman M. Qahtani</author>
+<author>Omar Almutiry</author>
+<author>Habib Dhahri</author>
+<author orcid="0000-0002-0642-3384">Adel M. Alimi</author>
+<title>TSVD : Tunisia Street View Dataset.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/extw-0k60</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/EddermougMSSA22">
+<author orcid="0000-0002-0590-2658">Nahid Eddermoug</author>
+<author orcid="0000-0002-5231-4736">Abdeljebar Mansour</author>
+<author orcid="0000-0003-4918-9804">Mohamed Sadik</author>
+<author orcid="0000-0001-9946-5761">Essaid Sabir</author>
+<author orcid="0000-0003-0690-314X">Mohamed Azmi</author>
+<title>klm-PPSA Dataset V 1.0.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/1c13-df06</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SinhaSBSMS22">
+<author>Soumendu Sinha</author>
+<author>Nishad Sahu</author>
+<author>Rishabh Bhardwaj</author>
+<author>Het Shah</author>
+<author>Ravindra Mukhiya</author>
+<author>Rishi Sharma</author>
+<title>Supplementary Files - Towards Development of an ISFET-based Smart pH Sensor: Enabling Machine Learning for Drift Compensation in IoT Applications.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/jybd-je70</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Niu22">
+<author>Jianguo Niu</author>
+<title>EV8TOZ Instrument and soft calibration tables.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/48w5-2682</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MoosaKA21">
+<author orcid="0000-0002-9081-7748">Jenan Moosa</author>
+<author>Tatiana Kalganova</author>
+<author>Wasan Shakr Awad</author>
+<title>COVID-19 Contact Tracing Networks.</title>
+<year>2021</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/8zxr-vh55</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Ge22c">
+<author>Ce Ge</author>
+<title>SKY-Scene.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/6brr-tb53</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AboElreesh22b">
+<author orcid="0000-0002-7333-9713">Iman Attia Abd-Elkhalik Abo-Elreesh</author>
+<title>fibrosis in NAFLD.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/dr5j-gs46</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/GamgamA22a">
+<author orcid="0000-0001-8770-7524">Ege Orkun Gamgam</author>
+<author orcid="0000-0001-8143-1379">Nail Akar</author>
+<title>MATLAB Code For Age of Information Modeling in Multi-source Status Update Systems.</title>
+<year>2022</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/13x2-8815</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/GravetoSC22">
+<author orcid="0000-0002-9436-6067">Vitor Graveto</author>
+<author orcid="0000-0002-5079-8327">Paulo Simaotilde;es 0001</author>
+<author orcid="0000-0001-9278-6503">Tiago Cruz 0001</author>
+<title>A Dataset Bundle for Building Automation and Control Systems Security Analysis.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/16a5-m134</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SzurkeDC21">
+<author orcid="0000-0001-5639-8116">Szabolcs Kocsis Szauuml;rke</author>
+<author orcid="0000-0001-8043-7023">Adrienn Dineva</author>
+<author orcid="0000-0002-2398-3199">Bence Csomaoacute;s</author>
+<title>Complex testing procedure for 18650 batteries.</title>
+<year>2021</year>
+<month>April</month>
+<ee type="oa">https://doi.org/10.21227/gg24-sj16</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/FatimaRNY22">
+<author orcid="0000-0002-5130-9572">Mehk Fatima</author>
+<author>Aimal Rextin</author>
+<author>Mehwish Nasim</author>
+<author>Osman Yusuf</author>
+<title>1st Wave of COVID-19 in Pakistan.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/pen1-1b45</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Ivanovici22">
+<author orcid="0000-0002-0803-2918">Mihai Ivanovici</author>
+<title>Color fractal images with independent RGB color components.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/v8rw-bk31</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LiLWT22">
+<author>Jia-Yan Li</author>
+<author>Jaden Chao-Ho Lin</author>
+<author>Kun-Ru Wu</author>
+<author>Yu-Chee Tseng</author>
+<title>Pedestrians with IMU (Ped-IMU).</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/fk1e-gx83</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TophamKAWH22">
+<author>Luke K. Topham</author>
+<author>Wasiq Khan</author>
+<author>Dhiya Al-Jumeily</author>
+<author>Atif Waraich</author>
+<author>Abir Hussain</author>
+<title>Limb Joint Movement Gait Dataset from IMU sensor.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/b5tp-y175</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Nguyen22a">
+<author>Phuc Nguyen 0002</author>
+<title>RSSI data using polynomial approximation.</title>
+<year>2022</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/8jyy-rp32</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JimenezLeon22">
+<author orcid="0000-0003-0654-1775">Jesauacute;s Jimaeacute;nez-Leaoacute;n</author>
+<title>TiO2-based memristive device Experimental Data.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/j0k3-qx03</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/WuZFHK21">
+<author>Xinju Wu</author>
+<author>Yun Zhang</author>
+<author>Chunling Fan</author>
+<author>Junhui Hou</author>
+<author>Sam Kwong</author>
+<title>SIAT-PCQD: Subjective Point Cloud Quality Database with 6DoF Head-mounted Display.</title>
+<year>2021</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/ad8d-7r28</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Andrashko22">
+<author orcid="0000-0003-2306-8377">Yurii Andrashko</author>
+<title>Given names.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/kg28-1580</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Klein23">
+<author>Devi Klein</author>
+<title>IEEE-TMI paper, A 2D synthesized image improves the 3D search for foveated visual systems.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/f8vk-aj29</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/StOngeA22">
+<author orcid="0000-0002-0587-8598">David St-Onge</author>
+<author>Ulysse Caocirc;taeacute; Allard</author>
+<title>Expressive motion with dancers.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/H29M1Q</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Machhamer22">
+<author orcid="0000-0002-0194-6194">Rauuml;diger Machhamer</author>
+<title>Online Offline Learning for Sound-based Indoor Localization Using Low-cost Hardware Data.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/j59n-p811</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Thakur22">
+<author orcid="0000-0002-3225-1870">Nirmalya Thakur</author>
+<title>Twitter Conversations about the COVID-19 Omicron Variant: A Large Scale Dataset of more than 500,000 Tweets.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/tc6g-1196</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LiWZK23">
+<author>Zilinghan Li</author>
+<author>Xiwei Wang</author>
+<author>Zhenning Zhang</author>
+<author>Volodymyr V. Kindratenko</author>
+<title>Character Face in Video.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/q2pn-z054</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Li19i">
+<author>Ting Li</author>
+<title>VCH head model for graphic card accelerated Monte Carlo model validation.</title>
+<year>2019</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/y8x6-xq09</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wu22f">
+<author>Rui Wu</author>
+<title>Supplementary material.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/q8g6-s494</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Rice18">
+<author>Natallia Rice</author>
+<title>web hosting providers monitoring data.</title>
+<year>2018</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/w3pz-q475</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/GradovM20b">
+<author>Oleg Gradov</author>
+<author>Irene Maclackova</author>
+<title>Towards the machine learning assisted porometry and porosimetry using ESPI software for speckle topology identification.</title>
+<year>2020</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/bex8-5x03</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SemkinHPSRVO22">
+<author>Vasilii Semkin</author>
+<author>Jaakko Haarla</author>
+<author>Thomas Pairon</author>
+<author>Christopher Slezak</author>
+<author>Sundeep Rangan</author>
+<author>Ville Viikari</author>
+<author>Claude Oestges</author>
+<title>Drone RCS measurements (26-40 GHz).</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/m8xk-dr55</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Shi21">
+<author>Yueqi Shi</author>
+<title>Student assessment and academic performance data of the Affiliated Middle School of University of Science and Technology Beijing.</title>
+<year>2021</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/ja4b-v330</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ChenW22">
+<author>Jiusheng Chen</author>
+<author>Xianning Wang</author>
+<title>China and ASEAN-6 daily indices 2010-2021.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/tk6b-6r37</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/OnerSK22">
+<author orcid="0000-0003-4252-9167">Mustafa Umit Oner</author>
+<author orcid="0000-0003-3085-8828">Ilker Sahin</author>
+<author orcid="0000-0002-6311-7906">Ozan Keysan</author>
+<title>Inverter Switching Vectors Data of An FCS-MPC Driven Induction Machine for Healthy and Faulty Conditions.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/chp0-5x97</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BarralEG20">
+<author orcid="0000-0001-8750-7960">Valentaiacute;n Barral</author>
+<author orcid="0000-0002-3877-1332">Carlos J. Escudero</author>
+<author orcid="0000-0002-1944-4678">Josaeacute; Antonio Garcaiacute;a-Naya</author>
+<title>NLOS Identification and Mitigation Using Low-Cost UWB Devices.</title>
+<year>2020</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/swz9-y281</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Brinker22">
+<author orcid="0000-0002-8782-3979">Katelyn R. Brinker</author>
+<title>Chipless RFID Measurements Reported in the Literature.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/1v7w-3c83</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/KekkonenTNN22">
+<author orcid="0000-0003-0817-9351">Jere Kekkonen</author>
+<author>Tuomo Talala</author>
+<author orcid="0000-0002-2920-1370">Jan Nissinen</author>
+<author orcid="0000-0001-8131-9766">Ilkka Nissinen</author>
+<title>On the Spectral Quality of Time-Resolved CMOS SPAD-Based Raman Spectroscopy with High Fluorescence Backgrounds.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/1rq8-gn56</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhangZL21">
+<author>Xiang Zhang</author>
+<author>Junbo Zhao</author>
+<author>Yann LeCun</author>
+<title>DBPedia.</title>
+<year>2021</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/pm0y-kr98</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Lamsal21">
+<author>Rabindra Lamsal</author>
+<title>A Large Scale Nepali Text Corpus.</title>
+<year>2021</year>
+<month>March</month>
+<ee type="oa">https://doi.org/10.21227/jxrd-d245</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AsanzaCCP21">
+<author orcid="0000-0002-2786-4162">Vaiacute;ctor Asanza</author>
+<author orcid="0000-0002-9589-0047">Kevin Chica-Orellana</author>
+<author orcid="0000-0001-8535-6978">Jonathan Cagua</author>
+<author orcid="0000-0002-9045-6997">Diego Hernaaacute;n Peluffo-Ordaoacute;antilde;ez</author>
+<title>TSC-LAB.</title>
+<year>2021</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.21227/pxtr-0a07</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Gomes22a">
+<author>Haroldo Gomes</author>
+<title>A DataSet of word sequences through MRI.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/7jan-t860</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/RadoglouGrammatikisRLAS23">
+<author orcid="0000-0003-1605-9413">Panagiotis I. Radoglou-Grammatikis</author>
+<author>Konstantinos Rompolos</author>
+<author orcid="0000-0002-0749-9794">Thomas Lagkas</author>
+<author orcid="0000-0003-4679-8049">Vasileios Argyriou</author>
+<author orcid="0000-0001-6042-0355">Panayiotis Sarigiannidis</author>
+<title>IEC 60870-5-104 Intrusion Detection Dataset.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/fj7s-f281</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Atto22">
+<author>Abdourrahmane M. Atto</author>
+<title>Can Artificial Intelligence Untangle Distorted and Compressed Geometries Associated with SAR Images of 3D Objects ?</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/y3pm-1113</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TremlFSM20">
+<author>Aline Elly Treml</author>
+<author>Rogaeacute;rio Andrade Flauzino</author>
+<author>Marcelo Suetake</author>
+<author>Narco Afonso Ravazzoli Maciejewski</author>
+<title>Experimental database for detecting and diagnosing rotor broken bar in a three-phase induction motor.</title>
+<year>2020</year>
+<month>September</month>
+<ee type="oa">https://doi.org/10.21227/fmnm-bn95</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yuxin22">
+<author>Tuo Yuxin</author>
+<title>archive.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/n35a-2762</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SenevirathnaLDBSA19">
+<author orcid="0000-0002-4037-9073">Bathiya Senevirathna</author>
+<author orcid="0000-0003-4015-631X">Sheung Lu</author>
+<author orcid="0000-0001-7698-2408">Marc Dandin</author>
+<author>John Basile</author>
+<author orcid="0000-0003-3921-2265">Elisabeth Smela</author>
+<author>Pamela Abshire</author>
+<title>Measurements of cancer cell proliferation using a Lab-on-CMOS capacitance sensor with time-lapse imaging.</title>
+<year>2019</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.21227/9zzd-w936</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LamsalRK23">
+<author orcid="0000-0002-2182-3001">Rabindra Lamsal</author>
+<author orcid="0000-0002-2831-8526">Maria Rodriguez Read</author>
+<author orcid="0000-0001-7080-5064">Shanika Karunasekera</author>
+<title>BillionCOV: An Enriched Billion-scale Collection of COVID-19 tweets for Efficient Hydration.</title>
+<year>2023</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.21227/871g-yp65</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/He22">
+<author orcid="0000-0001-9239-5457">Bangbang He</author>
+<title>Impedance measurement data.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/942e-8y69</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sarbunan22a">
+<author orcid="0000-0001-8236-370X">Thobias Sarbunan</author>
+<title>TRANSCRIPTIONS FROM YOUTUBE FOR TEACHING COMPLEMENTS FOR THE FOUNDATION OF EDUCATION (INDONESIA'S VIEW OF THE ELEMENTS AND FOUNDATIONS OF EDUCATIONAL SYSTEMS AND PROGRAMS).</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/0aka-6106</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/GorshenevGG19">
+<author>Vladimir Gorshenev</author>
+<author>Margaret Gradova</author>
+<author>Oleg Gradov</author>
+<title>Hydroxyapatite and related samples for distinction between biomineralization and abiogenic mineral formation.</title>
+<year>2019</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/s3dj-e419</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BeraIK22">
+<author orcid="0000-0001-5370-8852">Pallav Kumar Bera</author>
+<author>Can Isik</author>
+<author>Vajendra Kumar</author>
+<title>Transients and Faults in Power Transformers and Phase Angle Regulators (DATASET).</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/1d1w-q940</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JabinAMZ20">
+<author orcid="0000-0002-0648-2616">Suraiya Jabin</author>
+<author orcid="0000-0001-6804-5860">Sumaiya Ahmad</author>
+<author orcid="0000-0002-6613-0997">Sarthak Mishra</author>
+<author>Farhana Javed Zareen</author>
+<title>iSignDB: A biometric signature database created using smartphone.</title>
+<year>2020</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/kdrr-zj79</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LiL19">
+<author>Zuyi Li</author>
+<author>Mengqi Lu</author>
+<title>CombinedHouseholdModel.</title>
+<year>2019</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/jq18-6n45</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Monday21">
+<author orcid="0000-0001-9277-2312">Happy Nkanta Monday</author>
+<title>COVID-19 AND Normal Chest x-ray.</title>
+<year>2021</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/4x2b-9f24</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/WightmanS23">
+<author orcid="0000-0002-7641-2090">Pedro M. Wightman</author>
+<author orcid="0000-0002-1063-7561">Augusto Salazar</author>
+<title>Bicking path.</title>
+<year>2023</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/6ddj-4v34</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Jiang23">
+<author>Kuosheng Jiang</author>
+<title>Wire Rope Dataset.</title>
+<year>2023</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/dm5z-2013</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PanchalNKPNPB23">
+<author orcid="0000-0002-9162-8324">Sachin Panchal</author>
+<author orcid="0000-0002-2370-4057">Ankita Naik</author>
+<author orcid="0000-0002-6947-4090">Manesh Kokare</author>
+<author orcid="0000-0001-5226-6706">Samiksha Pachade</author>
+<author>Rushikesh Naigaonkar</author>
+<author>Prerana Phadnis</author>
+<author>Archana Bhange</author>
+<title>Retinal Fundus Multi-Disease Image Dataset (RFMiD) 2.0.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/mrd2-ap11</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yang20a">
+<author orcid="0000-0001-6527-4879">Haw Ching Yang</author>
+<title>Signal Segmentation for Milling Process.</title>
+<year>2020</year>
+<month>November</month>
+<ee type="oa">https://doi.org/10.21227/bkyw-4g63</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/StukachZ22">
+<author orcid="0000-0001-6845-4285">Oleg Stukach</author>
+<author>Pavel Zorin</author>
+<title>Long-Term Data from the Heat Meters in Residential Buildings Depending on the Outside Temperature and Characteristics of Buildings.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/rjke-6040</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sami19">
+<author orcid="0000-0002-2270-5111">Muhammad Sami</author>
+<title>Intrusion Detection in CAN bus.</title>
+<year>2019</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/24m9-a446</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Pokhrel21">
+<author>Suraksha Pokhrel</author>
+<title>Place#Hashtag Twitter Dataset: COVID-19 Hashtags.</title>
+<year>2021</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/aga4-fz72</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/VourtsisSCSF22">
+<author>Charalampos Vourtsis</author>
+<author>Francisco Ramirez Serrano</author>
+<author>Rochel Victor Casas</author>
+<author>William J. Stewart 0002</author>
+<author>Dario Floreano</author>
+<title>Dataset for the publication "Insect Inspired Self-Righting Fixed-Wing Drones".</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/vvjg-yw40</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Namadmalan21">
+<author>Alireza Namadmalan</author>
+<title>Self-Aligning Capability of IPT Pads for High-Power Wireless EV Charging Stations.</title>
+<year>2021</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/hfvt-9a65</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-16" key="data/10/GradovMA20">
+<author>Oleg Gradov</author>
+<author>Irene Maclackova</author>
+<author>Paul Alexandrow</author>
+<title>Technical calibrating images for software laser-diffractometric porometry or porosimetry (JEOL, CRIFAL).</title>
+<year>2020</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/na28-5t44</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Bush21">
+<author orcid="0000-0002-7879-2728">Jeffrey Bush</author>
+<title>C4L Image Dataset.</title>
+<year>2021</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/bc9m-f507</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sahin23">
+<author>Alphan Sahin</author>
+<title>IQ data for a given TX-RX beam index pair for link-level analysis in the 60 GHz band.</title>
+<year>2023</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/cm3m-2f84</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sharma20a">
+<author>Pooja Sharma</author>
+<title>Game building world.</title>
+<year>2020</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/5tn2-s107</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zammit20">
+<author>Joseph Zammit</author>
+<title>Adaptive block compressive sensing for distributed video coding - Supplementary Material.</title>
+<year>2020</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.21227/rf85-v397</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Bermudez21">
+<author>Alejandro Bermauacute;dez</author>
+<title>Soli Moisture, Air Temperature and Humidity Monitor Data.</title>
+<year>2021</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/x5b3-0581</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/GomaaE22">
+<author>Walid Gomaa 0001</author>
+<author>Reda Elbasiony</author>
+<title>Activities of Daily Living.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/H2PS74</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/VelasquezSSVTMMST20">
+<author orcid="0000-0002-9949-8915">David Velaaacute;squez 0001</author>
+<author>Alejandro Saaacute;nchez</author>
+<author>Sebastiaaacute;n Sarmiento</author>
+<author>Camilo Velaaacute;squez</author>
+<author>Mauricio Toro</author>
+<author>Edwin Montoya</author>
+<author>Mikel Maiza</author>
+<author>Basilio Sierra</author>
+<author>Helmuth Trefftz</author>
+<title>Coffee Leaf Rust Dataset.</title>
+<year>2020</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/pz2n-y676</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AriffinJ20">
+<author orcid="0000-0002-6612-6015">Syed Mohd Zahid Syed Zainal Ariffin</author>
+<author>Nursuriati Jamil</author>
+<title>DIAST Variability Illuminated Thermal and Visible Ear Image Dataset.</title>
+<year>2020</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/enw9-c646</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MohamedKC22">
+<author>Mustafa Abshir Mohamed</author>
+<author orcid="0000-0001-6975-305X">Geylani Kardas</author>
+<author orcid="0000-0002-5436-6070">Moharram Challenger</author>
+<title>Dataset for: Systematic Literature Review on Model-driven Engineering for Cyber-physical Systems.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/zbkz-6461</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/QuintanaOFBC22">
+<author orcid="0000-0003-1154-6490">Laura Quintana</author>
+<author orcid="0000-0002-7519-954X">Samuel Ortega</author>
+<author orcid="0000-0002-9794-490X">Himar Fabelo</author>
+<author orcid="0000-0003-2028-0858">Francisco Balea-Fernaaacute;ndez</author>
+<author orcid="0000-0002-3784-5504">Gustavo Marrero Callicaoacute;</author>
+<title>Hyperspectral Image Dataset for Focus Analysis (HIDFA).</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/fk2r-yv89</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SilvaF22">
+<author>Gustavo Silva</author>
+<author>Franklin Flores</author>
+<title>Rot corn grains.</title>
+<year>2022</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.21227/ycak-n843</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/YooAS22">
+<author orcid="0000-0003-4122-4724">Han Woong Yoo</author>
+<author orcid="0000-0002-7416-7263">Stephan Albert</author>
+<author orcid="0000-0002-8746-5892">Georg Schitter</author>
+<title>Supplementary materials for "Fourier Series based Analytic Model of a Resonant MEMS Mirror for General Voltage Inputs".</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/5d70-mg50</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DharmalingamA23">
+<author>Jeya Mala Dharmalingam</author>
+<author>Sahil Arora</author>
+<title>Capstone 19BCE1366-2023.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/ksq2-3c65</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Liu22">
+<author>Ming Liu</author>
+<title>Student-AI question co-creation dataset.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/8wkq-3z53</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Lin22a">
+<author>Liu Lin</author>
+<title>Experimental data of manuscript "CFAR algorithm based on different probabilit models for ocean target detection".</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/b7s7-sf40</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AlKadiM21">
+<author orcid="0000-0002-6346-0106">Omar Sultan Al-Kadi</author>
+<author>Waleed Mahafza</author>
+<title>Unpaired MR-CT Brain Dataset for Unsupervised Image Translation.</title>
+<year>2021</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/fe9x-qg64</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TaiWWLB22">
+<author orcid="0000-0002-4356-4100">Shang Tai</author>
+<author orcid="0000-0002-9497-461X">Lixin Wang</author>
+<author orcid="0000-0002-2341-1473">Yanling Wang</author>
+<author>Shiguang Lu</author>
+<author orcid="0000-0003-1570-3780">Chen Bu</author>
+<title>A 3/4-DOF Wind Tunnel Virtual Flight Test.</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/yc97-ys48</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Limberg20">
+<author orcid="0000-0002-4903-3933">Christian Limberg</author>
+<title>CUPSNBOTTLES.</title>
+<year>2020</year>
+<month>February</month>
+<ee type="oa">https://doi.org/10.21227/ywwz-cb26</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AlghifariGK23">
+<author orcid="0000-0003-2122-9712">Muhammad Fahreza Alghifari</author>
+<author orcid="0000-0003-3345-4669">Teddy Surya Gunawan</author>
+<author>Mira Kartiwi</author>
+<title>SAD: Sorrow Analysis Dataset.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/pbkv-6w98</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Nadeem21">
+<author orcid="0000-0002-0608-0828">Zain Nadeem</author>
+<title>Pakistani Traffic-sign Recognition Dataset.</title>
+<year>2021</year>
+<month>February</month>
+<ee type="oa">https://doi.org/10.21227/2ra3-bd92</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Hayes21">
+<author orcid="0000-0002-3310-6042">Wayne B. Hayes</author>
+<title>Multi-SANA: Comparing Topological Objective Functions for Multiple Network Alignment.</title>
+<year>2021</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/wxc3-vw43</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Arboleya21">
+<author orcid="0000-0002-4283-448X">Pablo Arboleya</author>
+<title>Interactive Heavily Unbalanced Power System Analysis.</title>
+<year>2021</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/tvv0-b073</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wen22">
+<author>Zhiqiang Wen</author>
+<title>License Plate Image.</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/ttxz-5g70</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Association20">
+<author>IEEE Standards Association</author>
+<title>Arc Flash IE and Iarc Calculators.</title>
+<year>2020</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.21227/8gch-a963</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LiD22">
+<author orcid="0000-0001-7475-759X">Ran Li 0003</author>
+<author>Juan Dai</author>
+<title>The VifFRUC Dataset.</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/jw0n-d193</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Clima22">
+<author>Sergiu Clima</author>
+<title>Landau model.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/hb51-d608</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DeyG20">
+<author orcid="0000-0003-2880-6500">Niladri Sekhar Dey</author>
+<author>Thummuru Gunasekhar</author>
+<title>Cloud-Based Data Centre with Predictive Machine Learning Server Traces.</title>
+<year>2020</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/93kc-4251</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Xu22h">
+<author orcid="0000-0002-5034-8561">Chunhui Xu</author>
+<title>Taxi trajectory.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/hrtq-xr22</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Qin22">
+<author>Ce Qin</author>
+<title>Parallel 3D Frequency Domain Electromagnetic Modeling based on Mesh Partitioning technique.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/yeph-py41</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wang22e">
+<author>Kailiang Wang</author>
+<title>Wireless_Insite.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/bmhh-v226</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BrunnerYSS20">
+<author orcid="0000-0003-1263-5778">David Brunner</author>
+<author orcid="0000-0003-4122-4724">Han Woong Yoo</author>
+<author orcid="0000-0003-3259-4571">Richard Schroedter</author>
+<author orcid="0000-0002-8746-5892">Georg Schitter</author>
+<title>Lissajous grid projection and center pixel stability with and without synchronization control.</title>
+<year>2020</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/gf3b-fn02</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PazderskiM20">
+<author orcid="0000-0002-8732-7350">Dariusz Pazderski</author>
+<author orcid="0000-0002-9953-703X">Maciej Michalek</author>
+<title>Reconstruction of the admissible joint-references for the N-trailer kinematics: the source Matlab files.</title>
+<year>2020</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/h1h2-1486</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Alhammadi22">
+<author>Ahmed Alhammadi</author>
+<title>Brainwave EEG Dataset.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/n2fv-ae84</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/StamatescuC21">
+<author orcid="0000-0002-9647-6817">Grigore Stamatescu</author>
+<author>Claudia F. Chitu</author>
+<title>Privacy-preserving Occupancy Detection in Smart Buildings: Three Weeks of Data from Infrared Array Sensor.</title>
+<year>2021</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/0tkh-yt85</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PourghasemianAMJJ22">
+<author>Mohsen Pourghasemian</author>
+<author>Mohammad Reza Abedi</author>
+<author>Nader Mokari</author>
+<author>Mohammad Reza Javan</author>
+<author>Eduard A. Jorswieck</author>
+<title>Mobility-Aware Robust Resource Allocation and Computation Migration in Heterogeneous Virtualized Vehicular Networks by Low Overhead Multi-Agent DRL-based Approach.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/pemn-g388</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DvoreckiBBA20">
+<author orcid="0000-0003-4250-3506">Nir Dvorecki</author>
+<author orcid="0000-0002-1471-2135">Ofer Bar-Shalom</author>
+<author orcid="0000-0003-4571-6726">Leor Banin</author>
+<author orcid="0000-0002-7113-9371">Yuval Amizur</author>
+<title>Intel Open Wi-Fi RTT Dataset.</title>
+<year>2020</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/h5c2-5439</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JiaCH19">
+<author orcid="0000-0001-8473-886X">Weijia Jia 0002</author>
+<author>Jie Cheng 0004</author>
+<author>Hongzhi Hu</author>
+<title>Water Quality Monitoring Data.</title>
+<year>2019</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/5czb-9880</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SharmaN20">
+<author orcid="0000-0002-7713-5857">Vivek S. Sharma</author>
+<author orcid="0000-0003-3133-978X">Kapil Kumar Nagwanshi</author>
+<title>Defective photonic bandgap crystals using Finite Difference Time Domain (FDTD).</title>
+<year>2020</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/tzka-tg50</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Alden20c">
+<author>Riley Alden</author>
+<title>Asset Health Index Data.</title>
+<year>2020</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/g738-w126</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BaierDSY22">
+<author orcid="0000-0001-9184-0301">Gerald Baier</author>
+<author>Antonin Deschemps</author>
+<author orcid="0000-0002-0575-2362">Michael Schmitt 0003</author>
+<author orcid="0000-0002-7321-4590">Naoto Yokoya</author>
+<title>GeoNRW.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/s5xq-b822</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LopezCMMP21">
+<author orcid="0000-0001-6521-7890">Juan Manuel Espaiacute;n Laoacute;pez</author>
+<author orcid="0000-0001-7125-1710">Alberto Huertas Celdraaacute;n</author>
+<author orcid="0000-0003-2742-4607">Javier G. Maraiacute;n-Blaaacute;zquez</author>
+<author orcid="0000-0003-4550-0183">Franscisco Esquembre Martaiacute;nez</author>
+<author orcid="0000-0001-5532-6604">Gregorio Martaiacute;nez Paeacute;rez</author>
+<title>S3 dataset.</title>
+<year>2021</year>
+<month>April</month>
+<ee type="oa">https://doi.org/10.21227/ddf8-n932</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Kang19">
+<author>Chao Kang</author>
+<title>Berkely dataset.</title>
+<year>2019</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/m7zn-6a86</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LingCMIISLSWG21">
+<author>Meng Ling</author>
+<author>Jian Chen 0006</author>
+<author orcid="0000-0003-1192-0710">Torsten Maouml;ller</author>
+<author orcid="0000-0002-2948-6417">Petra Isenberg</author>
+<author orcid="0000-0001-7953-8644">Tobias Isenberg 0001</author>
+<author>Michael Sedlmair</author>
+<author orcid="0000-0002-3874-6145">Robert S. Laramee</author>
+<author>Han-Wei Shen</author>
+<author>Jian Wu 0006</author>
+<author>C. Lee Giles</author>
+<title>Three Benchmark Datasets for Scholarly Article Layout Analysis.</title>
+<year>2021</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/326q-bf39</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yang22i">
+<author>Tianci Yang</author>
+<title>a#22825;a#28982;a#27668;a#31649;a#36947;a#27844;a#28431;a#25968;a#25454;.</title>
+<year>2022</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/t7te-q548</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AbrilCA22">
+<author orcid="0000-0002-8239-2743">Juan D. Abril</author>
+<author orcid="0000-0002-3307-6947">Eduardo Castillo Castaantilde;eda</author>
+<author orcid="0000-0001-8676-9926">Oscar F. Aviles</author>
+<title>Physiological and emotional states during virtual driving.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/9fmc-nw22</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Gumaraes22">
+<author>D. A. Gumaraes</author>
+<title>MATLAB code for simulation.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/H2894F</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TounsiMLA21">
+<author>Maroua Tounsi</author>
+<author>Ikram Moalla</author>
+<author>Frank Lebourgeois</author>
+<author orcid="0000-0002-0642-3384">Adel M. Alimi</author>
+<title>ARASTI database.</title>
+<year>2021</year>
+<month>September</month>
+<ee type="oa">https://doi.org/10.21227/mkg2-1t48</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/StukachZ21">
+<author orcid="0000-0001-6845-4285">Oleg Stukach</author>
+<author>Pavel Zorin</author>
+<title>Long-Term Data from the Heat Meters in Residential Buildings Depending on the Outside Temperature and Characteristics of Buildings.</title>
+<year>2021</year>
+<month>April</month>
+<ee type="oa">https://doi.org/10.21227/cw53-rr81</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MottusMHPM21">
+<author orcid="0000-0002-2745-1966">Matti Mottus</author>
+<author>Vincent Markiet</author>
+<author orcid="0000-0002-4434-8346">Rocaiacute;o Hernaaacute;ndez-Clemente</author>
+<author>Viljami Perheentupa</author>
+<author orcid="0000-0002-0770-0136">Titta Majasalmi</author>
+<title>SPYSTUF hyperspectral data.</title>
+<year>2021</year>
+<month>April</month>
+<ee type="oa">https://doi.org/10.21227/v5vh-2816</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AndersonPP21">
+<author>Robert Blake Anderson</author>
+<author>Can Pehlivanturk</author>
+<author>Mitch Pryor</author>
+<title>Optimization of Radiation Search.</title>
+<year>2021</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/ye12-qd31</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Xiong21">
+<author>Ting Xiong</author>
+<title>Parameters of RSN selection for inter-constellation satellite collaboration.</title>
+<year>2021</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/ssne-5s49</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SinhaK19">
+<author orcid="0000-0003-2384-4591">Ganesh Ram Sinha</author>
+<author>Rakesh Khare</author>
+<title>Brain Tumour Images.</title>
+<year>2019</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/fnqm-5w61</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ChoiYLS19">
+<author>Hwiyong Choi</author>
+<author>Haesang Yang</author>
+<author>Seungjun Lee</author>
+<author>Woojae Seong</author>
+<title>SNU-B36-50E: an inter-floor noise dataset.</title>
+<year>2019</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/cjzf-e074</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-16" key="data/10/NieLBGPKV22">
+<author>Shuai Nie</author>
+<author>Mohammad Mosiur Lunar</author>
+<author>Geng Bai</author>
+<author>Yufeng Ge</author>
+<author>Santosh K. Pitla</author>
+<author>Can Emre Koksal</author>
+<author>Mehmet C. Vuran</author>
+<title>mmWave on a Farm: Channel Modeling for Wireless Agricultural Networks at Broadband Millimeter-Wave Frequency.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/9nxq-4t62</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MaherM22">
+<author>Yara Maher</author>
+<author orcid="0000-0001-9593-6909">Sherin M. Moussa</author>
+<title>Learning Behavior Analytics Dataset.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/vyer-bf46</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BaldizonPMMERVF22">
+<author orcid="0000-0001-8524-1724">Yair Gonzaaacute;lez Baldizaoacute;n</author>
+<author orcid="0000-0003-3414-3379">Madaaiacute;n Paeacute;rez Patricio</author>
+<author orcid="0000-0001-5474-4150">Andrea Magadaaacute;n</author>
+<author orcid="0000-0001-5052-7554">Alicia Morales-Reyes</author>
+<author orcid="0000-0002-9676-2725">Elaiacute;as N. Escobar-Gaoacute;mez</author>
+<author orcid="0000-0002-3213-7808">Oscar M. Rodraiacute;guez-Elias</author>
+<author orcid="0000-0002-1260-4210">Haeacute;ctor-Daniel Vaaacute;zquez-Delgado</author>
+<author orcid="0000-0003-0612-2888">A. Fragoso-Mandujano</author>
+<title>Recognition of common postures in lambs (ICV-TxLamb).</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/3tyc-y227</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Ekanayake22">
+<author orcid="0000-0002-4768-5073">Mevan Ekanayake</author>
+<title>Hyperspectral data for KbSNMF.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/3fg8-b298</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Outman20">
+<author>Alexander Outman</author>
+<title>Web Data Commons - Hyperlink Graphs.</title>
+<year>2020</year>
+<month>August</month>
+<ee type="oa">https://doi.org/10.21227/H23S3B</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ShibryaevaG20b">
+<author>Ludmila S. Shibryaeva</author>
+<author>Oleg Gradov</author>
+<title>PHB measurements with DPSSL and incoherent light sources. Experiment A.</title>
+<year>2020</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/z75y-jm85</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Turner21">
+<author orcid="0000-0002-3261-0634">Adam Turner</author>
+<title>Bitcoin blockchain data of address 12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw.</title>
+<year>2021</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/1amp-n662</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Doan22">
+<author orcid="0000-0001-9048-4341">Van-Sang Doan</author>
+<title>Multi-task Learning Dataset for Automatic Modulation Classification and DOA Estimation.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/czt0-nj13</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/He19">
+<author>Xing He</author>
+<title>V, a#952;, LoadP, LoadQ, GenP, GenQ, and Jacobian Matrix for a Daily Power Consumption in a IEEE 9-Bus System.</title>
+<year>2019</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/g4hf-6071</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LopezMMI22">
+<author orcid="0000-0001-9980-9229">Carlos Laoacute;pez</author>
+<author orcid="0000-0002-0831-4042">Daniel Morataoacute;</author>
+<author orcid="0000-0002-6851-3414">Eduardo Magaantilde;a</author>
+<author orcid="0000-0002-2770-912X">Mikel Izal</author>
+<title>In-browser and network traffic based web response time measurements.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/czep-b307</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/KyrollosG22">
+<author orcid="0000-0002-1203-959X">Daniel G. Kyrollos</author>
+<author orcid="0000-0002-6039-2355">James Green 0001</author>
+<title>Simultaneously-collected Multimodal Mannequin Lying Pose (SMaL).</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/73ne-y825</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-20" key="data/10/HajjAhmadWW20">
+<author>Adi Hajj-Ahmad</author>
+<author>Chau-Wai Wong</author>
+<author>Min Wu 0001</author>
+<title>ENF Power Frequency Data for Location Forensics (IEEE SP Cup 2016 competition).</title>
+<year>2020</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/H2159S</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AlvarezAyllonPD22">
+<author>Alejandro aAacute;lvarez-Ayllaoacute;n</author>
+<author>Manuel Palomo-Duarte</author>
+<author>Juan Manuel Dodero</author>
+<title>Interactive Data Exploration in Science - Systematic Mapping Results.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/sedc-4213</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/GradovR20">
+<author>Oleg Gradov</author>
+<author>Anna Ratnovskaya</author>
+<title>Laser-assisted multi-angle DIC microscopy of red blood cells.</title>
+<year>2020</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/7xn4-dx30</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yu21">
+<author>Guo Yu</author>
+<title>Cloud Service Allocation.</title>
+<year>2021</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/18g2-b996</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Kanagarathinam21">
+<author orcid="0000-0001-7755-5715">Karthick Kanagarathinam</author>
+<title>Early stage diabetes risk prediction dataset.</title>
+<year>2021</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/k01r-x481</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/WeiW22">
+<author>Junhang Wei</author>
+<author>Shuo Wang</author>
+<title>Daily-life Sound and Haptic Material (DSHM) Dataset and the related code.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/mvvn-j328</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/GuptaGGG21">
+<author orcid="0000-0002-7752-1926">Anubha Gupta</author>
+<author orcid="0000-0001-5364-4086">Ritu Gupta</author>
+<author orcid="0000-0002-2891-8185">Shiv Gehlot</author>
+<author orcid="0000-0002-1376-1736">Shubham Goswami</author>
+<title>SegPC-2021: Segmentation of Multiple Myeloma Plasma Cells in Microscopic Images.</title>
+<year>2021</year>
+<month>April</month>
+<ee type="oa">https://doi.org/10.21227/7np1-2q42</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PastorGalindoZNBCPVPM22">
+<author orcid="0000-0003-4827-6682">Javier Pastor-Galindo</author>
+<author orcid="0000-0001-5267-2392">Mattia Zago</author>
+<author orcid="0000-0002-4041-1205">Pantaleone Nespoli</author>
+<author orcid="0000-0003-1869-1965">Sergio Laoacute;pez Bernal</author>
+<author orcid="0000-0001-7125-1710">Alberto Huertas Celdraaacute;n</author>
+<author orcid="0000-0002-7768-9665">Manuel Gil Paeacute;rez</author>
+<author orcid="0000-0002-2304-6365">Josaeacute; A. Ruipaeacute;rez Valiente</author>
+<author orcid="0000-0001-5532-6604">Gregorio Martaiacute;nez Paeacute;rez</author>
+<author orcid="0000-0002-6424-3322">Faeacute;lix Gaoacute;mez Maaacute;rmol</author>
+<title>Spotting political social bots in Twitter: a dataset for the 2019 Spanish general election.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/30ca-eg80</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ShamsimukhametovLKA21">
+<author orcid="0000-0001-8352-0738">Danil Shamsimukhametov</author>
+<author orcid="0000-0003-2674-7674">Mikhail Liubogoshchev</author>
+<author orcid="0000-0001-5541-4671">Evgeny M. Khorov</author>
+<author orcid="0000-0002-8099-3529">Ian F. Akyildiz</author>
+<title>YouTube, Netflix, Web dataset for Encrypted Traffic Classification.</title>
+<year>2021</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/s7x7-wd58</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Jakovlev22">
+<author orcid="0000-0002-1440-8221">Sergej Jakovlev</author>
+<title>Crane spreader acceleration data for impacts detection.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/t101-1172</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JarosMKB22">
+<author orcid="0000-0003-3346-6467">Rene Jaros</author>
+<author orcid="0000-0003-2054-143X">Radek Martinek</author>
+<author orcid="0000-0003-1555-9889">Radana Kahankova</author>
+<author orcid="0000-0001-5594-8294">Katerina Barnova</author>
+<title>ST Annotations of ADFECGDB database.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/70cd-bw64</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sapozhnikova20">
+<author>Kseniia Sapozhnikova</author>
+<title>Music and Animals' Basic Emotions.</title>
+<year>2020</year>
+<month>August</month>
+<ee type="oa">https://doi.org/10.21227/y12b-sd27</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Nguyen22">
+<author>Huu-Thanh Nguyen 0003</author>
+<title>Food Instance Counting and Segmentation.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/zecc-dw23</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Haolan22">
+<author>Shi Haolan</author>
+<title>Intensity runs.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/hb3w-2c56</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ChenJMB22">
+<author orcid="0000-0002-1658-9636">Dongzheng Chen</author>
+<author>Ryan Jacobs</author>
+<author>Dane Morgan</author>
+<author>John Booske</author>
+<title>Data for: Impact of Non-Uniform Thermionic Emission on the Transition Behavior between Temperature- and Space-Charge-Limited Emission.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/z5xt-d665</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wang22x">
+<author orcid="0000-0001-7356-8789">Jian Wang 0089</author>
+<title>Compensated FPP calibration.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/6f7p-jd52</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MirandaGLTW22">
+<author>Tomaaacute;s Concepciaoacute;n Miranda</author>
+<author orcid="0000-0002-4238-4423">Pierre-Franaccedil;ois Gimenez</author>
+<author orcid="0000-0003-4984-2199">Jean-Franaccedil;ois Lalande</author>
+<author orcid="0000-0003-4838-2952">Valaeacute;rie Viet Triem Tong</author>
+<author orcid="0000-0001-9681-644X">Pierre Wilke</author>
+<title>Dada: Debiased Android DAtasets.</title>
+<year>2022</year>
+<month>October</month>
+<ee type="oa">https://doi.org/10.21227/0frv-zb46</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhang19">
+<author orcid="0000-0003-1604-0552">Boyu Zhang</author>
+<title>Detecting XSS attacks by combining CNN with LSTM.</title>
+<year>2019</year>
+<month>December</month>
+<ee type="oa">https://doi.org/10.21227/css6-ds36</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MaalejK20">
+<author>Aicha Maalej</author>
+<author orcid="0000-0002-9281-0259">Ilhem Kallel</author>
+<title>EmoSurv: A typing biometric (Keystroke dynamics) dataset with emotion labels created using computer keyboards.</title>
+<year>2020</year>
+<month>November</month>
+<ee type="oa">https://doi.org/10.21227/eae6-pk42</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhangDS22">
+<author>Yanfu Zhang</author>
+<author orcid="0000-0003-4006-9371">Li Ding 0009</author>
+<author orcid="0000-0001-9735-9519">Gaurav Sharma 0001</author>
+<title>HazeRD: An Outdoor Scene Dataset and Benchmark for Single Image Dehazing.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/h6q8-y165</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Bureau19">
+<author>Consumer Financial Protection Bureau</author>
+<title>Consumer Complaints.</title>
+<year>2019</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/zs93-ry59</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PlaksinBCSPFKB22">
+<author>Yaroslav Plaksin</author>
+<author>Ayomide Bakare</author>
+<author>Arina Cheverda</author>
+<author>Giancarlo Succi</author>
+<author>Witold Pedrycz</author>
+<author>Mirko Farina</author>
+<author>Artem V. Kruglov</author>
+<author>Yegor Bugayenko</author>
+<title>Prioritizing Tasks in Software Development: a Systematic Literature Review.</title>
+<year>2022</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/kyse-2a84</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BairSD22">
+<author orcid="0000-0002-6554-387X">Edward H. Bair</author>
+<author orcid="0000-0001-5250-4495">Timbo Stillinger</author>
+<author orcid="0000-0001-8542-431X">Jeff Dozier</author>
+<title>Sierra Nevada Snow 2001-2019, Validation for SPIReS.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/w6xt-8y49</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Liu22r">
+<author>Meng-Kun Liu</author>
+<title>MMG data.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/kcn3-m179</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Medhi22">
+<author>Kalyanbrat Medhi</author>
+<title>GUAN.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/kn9k-5j06</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Li22j">
+<author>Huihui Li</author>
+<title>sensor dataset.</title>
+<year>2022</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/7pnk-9b07</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MendozaCrespoTHGPS19">
+<author>Rafael Mendoza-Crespo</author>
+<author>Diego Torricelli</author>
+<author>Joel Carlos Huegel</author>
+<author>Josaeacute; Luis Gordillo</author>
+<author>Josaeacute; Luis Pons</author>
+<author>Rogelio Soto</author>
+<title>Lower limb joint angular position and ground contact data from healthy subjects doning a decoupled exoskeleton.</title>
+<year>2019</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/nawf-tg74</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Gradov19l">
+<author>Oleg Gradov</author>
+<title>a#1057;a#1050;a#1053;-40 + a#1057;a#1050;a#1069;a#1055;a#1058;-50 (70/50).</title>
+<year>2019</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/ty4r-dx42</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/KP22">
+<author>Muhammad Jaseer KP</author>
+<title>Indian Traffic Sign Detection Benchmark Dataset in YOLO Format.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/qf85-yz10</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TharaneetharanH20">
+<author orcid="0000-0002-9207-1871">Arumugarajah Tharaneetharan</author>
+<author>Melissa Harrington</author>
+<title>Changes in Functional Network Output of Cocultured Ventral Horn Neurons.</title>
+<year>2020</year>
+<month>August</month>
+<ee type="oa">https://doi.org/10.21227/vysa-yg14</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Lou22">
+<author>Siwei Lou</author>
+<title>Joint model based on RMK-ASSA and DBSKNet.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/r31v-vy73</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BaghdadiAFHSA21">
+<author>Asma Baghdadi</author>
+<author>Yassine Aribi</author>
+<author>Rahma Fourati</author>
+<author>Najla Halouani</author>
+<author>Patrick Siarry</author>
+<author orcid="0000-0002-0642-3384">Adel M. Alimi</author>
+<title>DASPS database.</title>
+<year>2021</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.21227/barx-we60</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DevSLW22">
+<author>Soumyabrata Dev</author>
+<author>Florian M. Savoy</author>
+<author>Yee Hui Lee</author>
+<author>Stefan Winkler 0001</author>
+<title>Singapore Whole sky Nighttime Image SEGmentation Database.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/jsf0-ga67</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhang22a">
+<author>Hao Zhang</author>
+<title>Satellite component tracking.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/van4-ds19</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ManuntaLCOL22">
+<author orcid="0000-0002-7245-1551">Michele Manunta</author>
+<author orcid="0000-0002-5197-7503">Claudio De Luca</author>
+<author orcid="0000-0001-8555-6494">Francesco Casu</author>
+<author orcid="0000-0002-5296-5213">Giovanni Onorato</author>
+<author orcid="0000-0002-7296-2749">Riccardo Lanari</author>
+<title>Sentinel-1 P-SBAS multilook interferogram sequences and triangulation networks.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/f0tq-4b68</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HaoXR21">
+<author>Xiaohan Hao</author>
+<author>Ruoting Xiong</author>
+<author>Wei Ren 0002</author>
+<title>Sharing Information.</title>
+<year>2021</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/rtmq-t937</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AbdelliRGP22">
+<author>Khouloud Abdelli</author>
+<author>Danish Rafique</author>
+<author>Helmut Griesser</author>
+<author>Stephan Pachnicke</author>
+<title>Reliability Data for Laser Lifetime Prediction.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/z0py-th79</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/FoucherCGRJDLPDGSB22">
+<author>Jamilah Foucher</author>
+<author>Anne-Claire Collet</author>
+<author>Kaeacute;vin Le Goff</author>
+<author>Thomas Rakotomamonjy</author>
+<author>Valaeacute;rie Juppet</author>
+<author>Thomas Descatoire</author>
+<author>Jeraeacute;mie Landrieu</author>
+<author>Marielle Plat-Robain</author>
+<author>Franaccedil;ois Denquin</author>
+<author>Arthur J. Grunwald</author>
+<author>Jean-Christophe Sarrazin</author>
+<author>Benoaicirc;t G. Bardy</author>
+<title>Simulation and Classification of Spatial Disorientation in a Flight use-case using Vestibular Stimulation.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/37cx-v817</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Guo22">
+<author>Gangqiang Guo</author>
+<title>Matlab code for MEMS accelerometer temperature drift compensation.</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/syrp-nm20</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Hu22">
+<author orcid="0000-0002-6837-9024">Zhuhua Hu</author>
+<title>Key-Point-Coordinate Regression Network (KPCRN) based fish dataset.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/6r0a-e133</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DomenicoPTVG21">
+<author>Andrea Di Domenico</author>
+<author>Gianluca Perna</author>
+<author>Martino Trevisan</author>
+<author>Luca Vassio</author>
+<author>Danilo Giordano</author>
+<title>A network analysis on cloud gaming: Stadia, GeForce Now and PSNow.</title>
+<year>2021</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/eb5y-ag12</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AlQahtaniA23">
+<author orcid="0000-0002-8225-4180">Ali Abdullah S. AlQahtani</author>
+<author>Thamraa Alshayeb</author>
+<title>RSSI Measurements of Beacon Frames from Wi-Fi Radio Waves.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/2bk3-dw90</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HamadiAKWY18">
+<author>Youssef Hamadi</author>
+<author>Claudio Angione</author>
+<author>Hillel Kugler</author>
+<author>Christoph M. Wintersteiger</author>
+<author>Boyan Yordanov</author>
+<title>Large-scale Genetic Exploration of Genome-wide Models: an Application to Human Cancer Metabolism.</title>
+<year>2018</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/yegx-4z80</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Shafiq19b">
+<author>Omer Shafiq</author>
+<title>Bitcoin Transaction Network Metadata (2011-2013).</title>
+<year>2019</year>
+<month>November</month>
+<ee type="oa">https://doi.org/10.21227/d6dx-m651</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Tan20">
+<author>Bochen Tan</author>
+<title>QUEKO-Benchmark.</title>
+<year>2020</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/zbnb-hc98</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Cho19">
+<author orcid="0000-0003-0210-1676">Sung-Min Cho</author>
+<title>Energy storage simulation for frequency regulation.</title>
+<year>2019</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/wre9-bv32</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wang22r">
+<author>Yuhao Wang</author>
+<title>Tibet Animal Husbandry Dataset.</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/c8k4-5q49</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/GradovM20c">
+<author>Oleg Gradov</author>
+<author>Irene Maclackova</author>
+<title>SEM of fission bubbles with submicropores.</title>
+<year>2020</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/f26c-zq46</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/FengWLZZM22">
+<author>Mingtao Feng</author>
+<author>Yaonan Wang</author>
+<author>Jian Liu 0014</author>
+<author>Liang Zhang 0010</author>
+<author>Hasan Firdaus M. Zaki</author>
+<author orcid="0000-0002-5206-3842">Ajmal Mian</author>
+<title>Benchmark dataset for depth estimation from lightfield images.</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/yk0j-e526</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Short22">
+<author orcid="0000-0001-8827-0459">Tom Short</author>
+<title>Comparison of IEEE 1584-2018 Predictions with Tests on Real-World Equipment.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/0rxx-mh92</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TekbiyikKEGK20">
+<author orcid="0000-0002-2548-3286">Kauuml;rsat Tekbiyik</author>
+<author>Cihat Keaccedil;eci</author>
+<author orcid="0000-0003-0368-0374">Ali Riza Ekti</author>
+<author orcid="0000-0003-4981-0488">Ali Gaouml;raccedil;in</author>
+<author orcid="0000-0001-7188-2619">Gauuml;nes Karabulut Kurt</author>
+<title>HisarMod: A new challenging modulated signals dataset.</title>
+<year>2020</year>
+<month>March</month>
+<ee type="oa">https://doi.org/10.21227/8k12-2g70</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/WangFL21">
+<author>Jason Wang</author>
+<author>Kaiqun Fu</author>
+<author>Chang-Tien Lu</author>
+<title>Fine-Grained Balanced Cyberbullying Dataset.</title>
+<year>2021</year>
+<month>March</month>
+<ee type="oa">https://doi.org/10.21227/kn1c-zx22</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ReinhardU22">
+<author orcid="0000-0002-9151-3930">Johann Reinhard</author>
+<author orcid="0000-0002-9565-3906">Philipp Urban</author>
+<title>Perceptually Optimizing Color Look-up Tables Supplemental data.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/780c-gz12</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ShahR22">
+<author>Shivani Shah</author>
+<author>Nanditha P. Rao</author>
+<title>Cacheaccel_Simulator.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/ad0c-ga03</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Shi20">
+<author>Zhenghao Shi</author>
+<title>Sand dust image data.</title>
+<year>2020</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/4jxd-p347</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Shan19">
+<author>Shubing Shan</author>
+<title>power consumption data of a hotel building.</title>
+<year>2019</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/29hy-9380</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Alden20">
+<author>Riley Alden</author>
+<title>Surge Arrester Historical Inspection Data.</title>
+<year>2020</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/qg43-sk34</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ThomasLCBLF22">
+<author>Nathan Thomas</author>
+<author>Brian Lee</author>
+<author>Oliver Coutts</author>
+<author>Pete Bunting</author>
+<author>David Lagomasino</author>
+<author>Lola Fatoyinbo</author>
+<title>A purely spaceborne open source approach for regional bathymetry mapping: Bahamas Median DEM.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/dwex-hm52</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AhmedRCW22">
+<author orcid="0000-0003-1133-0067">Imtiaz Ahmed</author>
+<author>Udit Rawat</author>
+<author>Jr-Tai Chen</author>
+<author>Dana Weinstein</author>
+<title>Data for Super-High-Frequency Low-Loss Sezawa Mode SAW Devices in a GaN/SiC Platform.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/nhsd-jw66</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TanaemTB22">
+<author orcid="0000-0001-5151-0746">Penidas Fiodinggo Tanaem</author>
+<author orcid="0000-0003-2047-5874">Andeka Rocky Tanaamah</author>
+<author>Infraim Oktofianus Boymau</author>
+<title>Partition Table in STARS: Concept and Evaluations.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/927k-ve20</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LiYPS22">
+<author orcid="0000-0002-5084-3554">Jing Li 0056</author>
+<author>Yujian Ye</author>
+<author>Dimitrios Papadaskalopoulos</author>
+<author>Goran Strbac</author>
+<title>Supplementary Datasheet Consensus-Based Coordination Flexible Demand Energy Storage.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/cjnz-4t55</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BrunoG21">
+<author orcid="0000-0003-0707-6131">Alessandro Bruno</author>
+<author orcid="0000-0001-7847-9275">Francesco Gugliuzza</author>
+<title>ETFP (Eye-Tracking and Fixation Points).</title>
+<year>2021</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/0d1h-vb68</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MausJ22">
+<author orcid="0000-0002-1468-3602">Gerrit Maus</author>
+<author>Stefan Janicke</author>
+<title>Bluetooth Direction Finding for Passive Respiration Monitoring.</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/wxj4-g666</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Fang23">
+<author orcid="0000-0003-4472-3908">Yilin Fang</author>
+<title>A Dynamic Multi-Objective Evolutionary Algorithm.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/ssjk-pj85</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JarrayaOA21">
+<author>Islem Jarraya</author>
+<author>Wael Ouarda</author>
+<author orcid="0000-0002-0642-3384">Adel M. Alimi</author>
+<title>THoDBRL2015 Database.</title>
+<year>2021</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.21227/j174-qv54</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Banerjee23">
+<author orcid="0000-0002-8179-891X">Sumanta Banerjee</author>
+<title>Salient sentence extraction dataset from COVID-19 news reports.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/g4z2-ab91</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhou21a">
+<author>Yujue Zhou</author>
+<title>Gas Consumption Dataset.</title>
+<year>2021</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/7c6k-qd64</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhuLW22">
+<author>Zihe Zhu</author>
+<author>Guoqiang Li</author>
+<author>Wenliang Wang</author>
+<title>Embedded electrode micro-LEDs with high modulation bandwidth for visible light communication.</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/h9rd-pm63</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Burro21">
+<author>Roberto Burro</author>
+<title>Naive intuitions about what constitutes an opposite process.</title>
+<year>2021</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/nkgq-b620</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/E22">
+<author orcid="0000-0002-8271-2022">Sathishkumar V. E.</author>
+<title>Steel Industry Energy Consumption.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/112a-dk82</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Adamovich18">
+<author>E. D. Adamovich</author>
+<title>PULS SPANNUNGSMESSGERaAuml;T UND DIE ELEKTROPHYSIOLOGIE DER PFLANZEN (FUR WISSENSCHAFTLICHER STREIT, EINE GELEHRTE FEHDE).</title>
+<year>2018</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/t092-t733</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AntoniettiDDFP22">
+<author orcid="0000-0003-0388-6321">Alberto Antonietti</author>
+<author>Ihsan Dag</author>
+<author>Linda Greta Dui</author>
+<author>Simona Ferrante</author>
+<author>Alessandra Pedrocchi</author>
+<title>Data for: Leveraging Deep Learning Techniques to Improve P300-Based Brain Computer Interfaces.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/y0t4-hr09</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/WeigeltST19">
+<author orcid="0000-0002-7740-3583">Sebastian Weigelt</author>
+<author>Vanessa Steurer</author>
+<author>Walter F. Tichy</author>
+<title>Natural Language Programming: How Laypersons Teach New Functions to Robots.</title>
+<year>2019</year>
+<month>October</month>
+<ee type="oa">https://doi.org/10.21227/zecn-6c61</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhangSNJ22">
+<author orcid="0000-0003-1786-9653">Lijing Zhang</author>
+<author>Gehao Sheng</author>
+<author>Zizhan Ni</author>
+<author>Xiuchen Jiang</author>
+<title>Information on structure and dimensions of an ONAN transformer.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/dd1c-2867</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhang22y">
+<author orcid="0000-0002-7221-3668">Fang Zhang 0003</author>
+<title>Simulated Synchrophasors in SSOs and Phasor Measurement Data Recorded During a Subsynchronous Oscillation Incident in an Actual Power System.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/dvrr-t131</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HidellaarachchiGHM22">
+<author orcid="0000-0003-0217-5317">Dulaji Hidellaarachchi</author>
+<author orcid="0000-0003-4928-7076">John Grundy 0001</author>
+<author orcid="0000-0001-5147-8096">Rashina Hoda</author>
+<author orcid="0000-0003-1363-8786">Kashumi Madampe</author>
+<title>Data Synthesis - The Effects of Human Aspects on the Requirements Engineering Process: A Systematic Literature Review.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/vvkp-n846</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ElBadawy22">
+<author orcid="0000-0002-8428-8886">Ismail M. El-Badawy</author>
+<title>Artefact-free and distorted capnogram segments.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/jcf5-9872</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Cully21">
+<author orcid="0000-0003-2929-0702">Keith Cully</author>
+<title>Performance of Microservices Result Data.</title>
+<year>2021</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/hhf7-8b30</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Xiang22">
+<author>Li Xiang</author>
+<title>Pulse Shrinking TDC External Captures.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/gbhk-n864</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wijaya22">
+<author>Dedy Rahman Wijaya</author>
+<title>Dataset for electronic nose from various beef cuts.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/596e-xn25</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DingKKRWS22">
+<author orcid="0000-0003-4006-9371">Li Ding 0009</author>
+<author>Tony D. Kang</author>
+<author>Ajay Kuriyan</author>
+<author>Rajeev S. Ramchandran</author>
+<author>Charles C. Wykoff</author>
+<author orcid="0000-0001-9735-9519">Gaurav Sharma 0001</author>
+<title>FLoRI21: Fluorescein Angiography Longitudinal Retinal Image Registration Dataset.</title>
+<year>2022</year>
+<month>August</month>
+<ee type="oa">https://doi.org/10.21227/ydp8-zf19</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Dutta19">
+<author>Subhendu Dutta</author>
+<title>Cover letter and Review response.</title>
+<year>2019</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/shkf-5r23</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Xiang21">
+<author>Li Xiang</author>
+<title>Pulse Shrinking TDC demo.</title>
+<year>2021</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/ch2m-nz55</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Choi22e">
+<author orcid="0000-0002-0410-1066">In-Oh Choi</author>
+<title>Robust Cardiac Rate Detection of an Individual.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/cysx-zv15</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DragoniMLS21">
+<author orcid="0000-0001-9575-2990">Nicola Dragoni</author>
+<author orcid="0000-0002-1091-8486">Fabio Massacci</author>
+<author orcid="0000-0001-7405-0818">Alberto Lluch-Lafuente</author>
+<author orcid="0000-0001-9212-6150">Anders Schlichtkrull</author>
+<title>A Survey of European Cybersecurity in Higher Education Programs.</title>
+<year>2021</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.21227/b5y0-4243</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Ma22b">
+<author>Yingjun Ma</author>
+<title>DeepMNE: Deep multi-network embedding for lncRNA-disease association prediction.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/gmjh-6871</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BanuI19">
+<author orcid="0000-0002-7722-8017">Ioan Viorel Banu</author>
+<author>Marcel Istrate</author>
+<title>Modeling and Simulation of Photovoltaic Arrays in Matlab and Simulink.</title>
+<year>2019</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.21227/H2463S</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Manzoor22">
+<author>Sohaib Manzoor</author>
+<title>IEEE 802.11.</title>
+<year>2022</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.21227/zs23-ta34</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wang22c">
+<author>Jiandong Wang</author>
+<title>Dataset of alarm deadband design based on maximum amplitude deviation.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/ek4b-4121</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Stefenon21">
+<author orcid="0000-0002-3723-616X">Staeacute;fano Frizzo Stefenon</author>
+<title>Inspection of Electrical Power Distribution Grid (South of Brazil).</title>
+<year>2021</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/pvzk-c971</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LopezA23">
+<author orcid="0000-0003-3625-4515">Yuri Alvarez Lopez</author>
+<author orcid="0000-0001-7959-2114">Fernando Las-Heras Andraeacute;s</author>
+<title>Fourier-based microwave imaging with antenna pattern compensation.</title>
+<year>2023</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/2dbm-qc30</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Chen22c">
+<author>Sheng Chen</author>
+<title>Fringe Projection Pattern images for Intraoral 3D Measurement.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/h6ac-v946</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AlRegibAA19">
+<author>Ghassan AlRegib</author>
+<author>Yazeed Alaudah</author>
+<author>Motaz Alfarraj</author>
+<title>LANDMASS.</title>
+<year>2019</year>
+<month>October</month>
+<ee type="oa">https://doi.org/10.21227/xz4k-r271</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yang22l">
+<author>Bo Yang</author>
+<title>Data for the Digital thread-driven PRSC for Cloud Manufacturing.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/k71y-m732</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Han22">
+<author orcid="0000-0003-2086-2487">Bin Han 0004</author>
+<title>A-SIREN: GAN-synthesized ASMR audio clips.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/d5zd-6n82</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JiangL22">
+<author orcid="0000-0001-8261-7503">Bailun Jiang</author>
+<author orcid="0000-0002-6900-0901">Boyang Li 0005</author>
+<title>Quadrotor Tail-sitter UAV Flight Log.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/rndt-6t65</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Navarro22">
+<author orcid="0000-0003-2893-0392">Rubaeacute;n Cantarero Navarro</author>
+<title>COVID19-routes dataset.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/r9ta-1t78</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BeraI22">
+<author>Pallav Kumar Bera</author>
+<author>Can Isik</author>
+<title>Data: Transients in Indirect Symmetrical Phase Shift Transformers.</title>
+<year>2022</year>
+<month>October</month>
+<ee type="oa">https://doi.org/10.21227/d8fv-6257</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/KhanAC22">
+<author>Lal Khan</author>
+<author>Ammar Amjad</author>
+<author>Hsien-Tsung Chang</author>
+<title>Urdu Corpus Sentiment Analysis.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/k6v6-sv49</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zahrawi22">
+<author orcid="0000-0002-5104-4391">Mohammad Zahrawi</author>
+<title>Weapon Detection YOLOv7.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/3akm-cb29</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DiazRVA21">
+<author orcid="0000-0003-3931-0199">Nelson Diaz</author>
+<author orcid="0000-0003-0000-1073">Juan Marcos Ramirez</author>
+<author orcid="0000-0001-8387-8131">Esteban Vera</author>
+<author orcid="0000-0002-2202-253X">Henry Arguello</author>
+<title>Hen datacube with ground truth.</title>
+<year>2021</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/7et5-6p34</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JainJ22">
+<author>Prarthi Jain</author>
+<author>Seemandhar Jain</author>
+<title>Anomaly detection dataset.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/rt7n-2x60</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yi22">
+<author>Bo Yi</author>
+<title>Gaussian Process Regression Based Traffic Prediction and Rate Coordination for Service Chain Congestion Optimization.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/2g19-8s97</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sharifi22">
+<author>Leila Sharifi</author>
+<title>Observation on Hyssop germination under Lead (Pb) tension and Gixberlin Acid based hormonal priming.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/2kpv-y298</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LangY22">
+<author>Haitao Lang</author>
+<author>Guang'an Yang</author>
+<title>ORS Dataset.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/y4f3-wh22</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhuLJ22">
+<author>Xun Zhu</author>
+<author>Chen Lyu</author>
+<author>Donghong Ji</author>
+<title>Biomedical Keyphrase Extraction Dataset.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/xd0p-wd52</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Shapo22">
+<author>Sofi Shapo</author>
+<title>TweetSentiment.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/mxzz-2j79</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LevikariKATNS22">
+<author>Saku Levikari</author>
+<author>Tommi J. Kaauml;rkkaauml;inen</author>
+<author>Caroline Andersson</author>
+<author>Juha Tamminen</author>
+<author>Mikko Nykyri</author>
+<author>Pertti Silventoinen</author>
+<title>MLCC Acoustic Data (2220 case size, processed).</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/qhzn-9v70</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sugimoto22">
+<author>Yoshiki Sugimoto</author>
+<title>PRM-PPEC.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/H2P042</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/NghiemHH22">
+<author>Son V. Nghiem</author>
+<author>Lanqing Huang</author>
+<author>Irena Hajnsek</author>
+<title>Radar Polarimetric Interferometry Theory for Retrieval of Sea Ice Elevation.</title>
+<year>2022</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/s7df-tq97</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Omerbashich23">
+<author orcid="0000-0003-1823-4721">Mensur Omerbashich</author>
+<title>Mission-integrated magnetometer data at Jupiter aamp; Saturn spanning 6+ months for detection of magnetar/dwarf novae-type prebursting evolution of Jupiter vs. Saturn, 100-minute averages.</title>
+<year>2023</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/bs6p-5456</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Mengcheng22">
+<author>Qiu Mengcheng</author>
+<title>Definition and calculation of the cubic spline interpolation.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/ykpd-7g44</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PandyaPSSS22">
+<author orcid="0000-0002-9918-0915">Pranav Pandya</author>
+<author>Prasad Pathak</author>
+<author>Raja Sengupta</author>
+<author>Sharvari Shukla</author>
+<author>Aamod Sane</author>
+<title>Pune City Zonal Mean for 2019-20.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/t7jt-0380</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Abdullah22">
+<author orcid="0000-0002-7950-816X">Raiyaan Abdullah</author>
+<title>Shoulder Exercise Quality Dataset.</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/xb4y-n107</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/FonteS19">
+<author>Hamilton Fonte</author>
+<author>Marcos A. Simplaiacute;cio Jr.</author>
+<title>Experimental data for - Dizang A solution for collecting forensic evidences in cloud environments.</title>
+<year>2019</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/mk9r-6457</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Busarello19a">
+<author orcid="0000-0002-5406-3811">Tiago Davi Curi Busarello</author>
+<title>Understanding Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT). Simulation and Digital Implementation by means of blocks, not C-code.</title>
+<year>2019</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/nq40-z057</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/VelasquezAS22">
+<author>Washington Velasquez</author>
+<author>Manuel S. Alvarez-Alvarado</author>
+<author>Joaquaiacute;n Salvachauacute;a</author>
+<title>Simulation - BMI using graph theory.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/d7tv-7482</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HauflerBH22">
+<author>Alex F. Haufler</author>
+<author>John H. Booske</author>
+<author>Susan C. Hagness</author>
+<title>Cranberry Field Measurement Data - Central WI Fall 2017.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/59bq-ds70</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AlJumeilyAKABA22">
+<author>Rawaa Al-Jumeily</author>
+<author orcid="0000-0002-5142-9179">Sulaf Assi</author>
+<author orcid="0000-0001-5460-5679">Hoshang Kolivand</author>
+<author orcid="0000-0002-7124-557X">Abdullah Al-Hamid</author>
+<author orcid="0000-0002-5166-4873">Thar Baker</author>
+<author orcid="0000-0002-9170-0568">Dhiya Al-Jumeily</author>
+<title>Level 6 students' performance in mathematics at a school.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/3gee-6y75</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ElSayedKA21">
+<author>Islam El-Sayed</author>
+<author>Komal Khan</author>
+<author>Pablo Arboleya</author>
+<title>Realtime framework for EV charging coordination using Multi Agent Systems.</title>
+<year>2021</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/8gkc-1687</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HeL23">
+<author>Jingfei He</author>
+<author>Xiaotong Liu</author>
+<title>Dataset.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/rstr-w440</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/CaiY21">
+<author>Mincheng Cai</author>
+<author orcid="0000-0003-1921-7915">Jun Yang 0014</author>
+<title>Mental Retardation Assessment.</title>
+<year>2021</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/ps03-rs19</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhouFLH22">
+<author orcid="0000-0002-4956-4195">Kanheng Zhou</author>
+<author orcid="0000-0002-4762-3569">Kairui Feng</author>
+<author orcid="0000-0003-2186-5137">Chunhui Li</author>
+<author>Zhihong Huang</author>
+<title>SAW propagation in in-vivo human skin.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/g0wd-x211</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sun21">
+<author orcid="0000-0002-8803-9801">Fajun Sun</author>
+<title>The communication dataset for simulation of WSNs in TinyOS.</title>
+<year>2021</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/jjqx-8217</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Xu22e">
+<author orcid="0000-0003-2858-3167">Zhuang Xu</author>
+<title>TEST DATASET FOR CCSPA ON K.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/qbxp-ze66</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Lu22b">
+<author>Yong Lu</author>
+<title>The simulation results for the submitted manuscript.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/c0pm-1t78</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Bansal23h">
+<author orcid="0000-0002-2572-9004">Abhishek Bansal</author>
+<title>Dataset: Impendance in the HyperComplex Plane.</title>
+<year>2023</year>
+<month>February</month>
+<ee type="oa">https://doi.org/10.21227/bjqh-qj43</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ChinJ19">
+<author>Cheng Siong Chin</author>
+<author>Xi Ji</author>
+<title>Noise Data for Offshore Platform.</title>
+<year>2019</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/vhsn-qh08</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ChaudhuriBBD22a">
+<author orcid="0000-0003-2970-9227">Ushasi Chaudhuri</author>
+<author>Biplab Banerjee</author>
+<author>Avik Bhattacharya</author>
+<author>Mihai Datcu</author>
+<title>Earth on Canvas.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/vm8p-fk24</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhang22p">
+<author orcid="0000-0003-4057-4124">Chen Zhang 0008</author>
+<title>Supplementary Table 1.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/8009-c737</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yao22a">
+<author>Weiwei Yao</author>
+<title>optimal operating condition data of 8 pump-turbine.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/jfay-qa71</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ChenZ22">
+<author>Bingrong Chen</author>
+<author>Yufan Zhao</author>
+<title>swine lamina milling.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/tcmy-0r66</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Alam20">
+<author>Hassan Alam</author>
+<title>Doubly Armature Technique for Improved Efficiency of Induction Motor.</title>
+<year>2020</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/8k1r-4727</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yi22a">
+<author orcid="0000-0003-1949-1762">Zheng Yi</author>
+<title>RSRPSet_urban: Radio map in dense urban.</title>
+<year>2022</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/vmw5-c226</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MartinezSAIMM22">
+<author orcid="0000-0003-4655-0983">Raquel Martaiacute;nez</author>
+<author orcid="0000-0002-3958-8214">Asier Salazar-Ramirez</author>
+<author orcid="0000-0002-5324-4215">Andoni Arruti</author>
+<author orcid="0000-0002-9119-1652">Eloy Irigoyen</author>
+<author orcid="0000-0001-6455-131X">Josaeacute; Ignacio Martaiacute;n</author>
+<author orcid="0000-0002-7026-7371">Javier Muguerza</author>
+<title>GSR signal database collected while solving 3D puzzles and relaxation responses labelled.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/bw75-6y17</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Liu19f">
+<author>Jie Liu</author>
+<title>Cloud ontology fusion.</title>
+<year>2019</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/2gcc-ft15</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SauxYHB22">
+<author orcid="0000-0001-7162-6746">Bertrand Le Saux</author>
+<author orcid="0000-0002-7321-4590">Naoto Yokoya</author>
+<author orcid="0000-0002-2936-6765">Ronny Haauml;nsch</author>
+<author orcid="0000-0001-8056-8576">Myron Brown</author>
+<title>Data Fusion Contest 2019 (DFC2019).</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/c6tm-vw12</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhongYL22">
+<author>Liqun Zhong</author>
+<author>Ge Yang 0002</author>
+<author>Lingrui Li</author>
+<title>Robustness Benchmark Datasets for Semantic Segmentation of Fluorescence Images.</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/kxay-5y38</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Huan22">
+<author>Junjun Huan</author>
+<title>Wearable Skin Temperature Monitoring System Data.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/95bf-6657</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LozanoAZGC22">
+<author>J. Xavier Salvat Lozano</author>
+<author>Jose A. Ayala-Romero</author>
+<author>Lanfranco Zanzi</author>
+<author>Andres Garcia-Saavedra</author>
+<author>Xavier Costa-Paeacute;rez</author>
+<title>O-RAN experimental evaluation datasets.</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/64s5-q431</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Hu22d">
+<author>Chuang Hu</author>
+<title>Chinese Adversarial Texts.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/6vb8-jp62</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Schafer22">
+<author orcid="0000-0002-0920-4566">Florian Schaauml;fer</author>
+<title>Benchmark Dataset for the Paper "A Hybrid Optimization Method Combining Network Expansion Planning and Switching State Optimization".</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/fqs9-nq06</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ThakoorKHS22">
+<author>Kaveri A. Thakoor</author>
+<author>Sharath C. Koorathota</author>
+<author>Donald C. Hood</author>
+<author>Paul Sajda</author>
+<title>Robust and Interpretable Convolutional Neural Networks to Detect Glaucoma in Optical Coherence Tomography Images.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/qg30-1p45</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PapadopoulosPK21">
+<author orcid="0000-0001-6384-1964">Theofilos A. Papadopoulos</author>
+<author>Kalliopi D. Pippi</author>
+<author>Georgios C. Kryonidis</author>
+<title>Techno-economic Assessment of Medium-Voltage Photovoltaic Prosumers Under Net-Metering Policy.</title>
+<year>2021</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/7h1m-2918</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Xie18">
+<author>Yulai Xie</author>
+<title>Detection rate and false alarm rate for Pagoda.</title>
+<year>2018</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/c3es-rv63</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/CarreraACCPMP22">
+<author orcid="0000-0002-1526-5824">Veraoacute;nica Jacqueline Ojeda Carrera</author>
+<author orcid="0000-0002-2786-4162">Vaiacute;ctor Asanza</author>
+<author orcid="0000-0002-9589-0047">Kevin Chica-Orellana</author>
+<author orcid="0000-0001-8535-6978">Jonathan Cagua</author>
+<author orcid="0000-0002-0371-2439">Douglas Plaza</author>
+<author>Caeacute;sar Martaiacute;n</author>
+<author orcid="0000-0002-9045-6997">Diego Hernaaacute;n Peluffo-Ordaoacute;antilde;ez</author>
+<title>Temperature and Speed Control Lab (TSC-Lab).</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/8cty-6069</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/VenturaNMRP20">
+<author orcid="0000-0001-8186-3710">Roni Barak Ventura</author>
+<author orcid="0000-0001-6410-2995">Oded Nov</author>
+<author orcid="0000-0001-9228-6410">Manuel Ruiz Maraiacute;n 0001</author>
+<author orcid="0000-0002-7852-5005">Preeti Raghavan</author>
+<author orcid="0000-0002-1480-3539">Maurizio Porfiri</author>
+<title>A low-cost telerehabilitation paradigm for bimanual training.</title>
+<year>2020</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/g88r-8e52</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Setiawan22">
+<author>Foni Agus Setiawan</author>
+<title>Ontology for identification of common algae involved in harmful algal bloom events.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/9ndc-1279</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/KaurK22">
+<author>Harpreet Kaur</author>
+<author>Ramakant Kumar</author>
+<title>Sensory Data Collected For Road Health.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/xw9y-q558</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Hu19">
+<author>Runze Hu</author>
+<title>Data for uncertainty quantification via adaptive ANN.</title>
+<year>2019</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/hhnh-s530</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Han22d">
+<author>Ji Yoon Han</author>
+<title>DMRS data set.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/q0fp-hb85</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MkaouarMSM20a">
+<author>Sahar Mkaouar</author>
+<author>Aicha Maaoui</author>
+<author>Michael Schier</author>
+<author>Ahmed Masmoudi 0001</author>
+<title>Fault-Tolerant Fractional-Slot PMSMs with One Coil Parallel Branches Made Phases - Part 2: Circulating Harmonic Current Rejection Potential.</title>
+<year>2020</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/fnrn-yv78</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhao21">
+<author>Li Zhao</author>
+<title>Manual segmentation results based on the joint data of satellite imagery and DSM.</title>
+<year>2021</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/97nq-yj29</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Baghi20">
+<author>Vahid Baghi</author>
+<title>IMDb Users' Ratings Dataset.</title>
+<year>2020</year>
+<month>December</month>
+<ee type="oa">https://doi.org/10.21227/br41-bd49</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ChangMS22">
+<author>KyungHi Chang</author>
+<author>Alamgir M. S. M</author>
+<author>Mst. Najnin Sultana</author>
+<title>Taean and Incheon Measured Data.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/4x41-7146</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Thakur21a">
+<author>Rajat Thakur</author>
+<title>Science and tech news dataset.</title>
+<year>2021</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/wtzb-0w91</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HernangomezPWSGIPKKNRTCCSF23">
+<author>Rodrigo Hernangaoacute;mez</author>
+<author>Alexandros Palaios</author>
+<author>Cara Watermann</author>
+<author>Daniel Schaauml;ufele</author>
+<author>Philipp Geuer</author>
+<author>Rafail Ismayilov</author>
+<author>Mohammad Parvini</author>
+<author>Anton Krause</author>
+<author>Martin Kasparick</author>
+<author>Thomas Neugebauer</author>
+<author>Oscar Dario Ramos-Cantor</author>
+<author>Hugues Tchouankem</author>
+<author>Jose Leon Calvo</author>
+<author>Bo Chen</author>
+<author>Slawomir Stanczak</author>
+<author>Gerhard P. Fettweis</author>
+<title>AI4Mobile Industrial Wireless Datasets: iV2V and iV2I+.</title>
+<year>2023</year>
+<month>February</month>
+<ee type="oa">https://doi.org/10.21227/04ta-v128</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Gradov19">
+<author>Oleg Gradov</author>
+<title>Paramecium sp. culture on Daucus carota subsp. sativus in different pH cases.</title>
+<year>2019</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/6nqm-td73</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SteinstraeterBT20">
+<author orcid="0000-0002-5720-3736">Matthias Steinstraeter</author>
+<author>Johannes Buberger</author>
+<author>Dimitar Trifonov</author>
+<title>Battery and Heating Data in Real Driving Cycles.</title>
+<year>2020</year>
+<month>October</month>
+<ee type="oa">https://doi.org/10.21227/6jr9-5235</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BarbosaSZM23">
+<author orcid="0000-0003-0608-1123">Paulo F. C. Barbosa</author>
+<author>Bruna Silva</author>
+<author>Cleber Zanchettin</author>
+<author>Renato Mariz de Moraes</author>
+<title>Energy Consumption CSMA/CA and slotted ALOHA (a#956;-AMPS).</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/99vd-vh94</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SababKHMRH22">
+<author orcid="0000-0001-9040-7549">Shahed A. Sabab</author>
+<author orcid="0000-0002-9631-1836">Mohammad Ridwan Kabir</author>
+<author>Sayed Rizban Hussain</author>
+<author orcid="0000-0003-4375-6943">Hasan Mahmud</author>
+<author>Husne Ara Rubaiyeat</author>
+<author>Kamrul Hasan 0006</author>
+<title>VIS-iTrack Dataset for Visual Intention detection through Eye Gaze.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/rp3f-f891</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Nguyen21a">
+<author>Van Nguyen</author>
+<title>Some software vulnerability real-world data sets.</title>
+<year>2021</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/1m98-5h52</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Hu22c">
+<author>Jingyun Hu</author>
+<title>PLT Dataset.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/nh1e-4036</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DingKRWS22">
+<author orcid="0000-0003-4006-9371">Li Ding 0009</author>
+<author>Ajay E. Kuriyan</author>
+<author>Rajeev S. Ramchandran</author>
+<author>Charles C. Wykoff</author>
+<author orcid="0000-0001-9735-9519">Gaurav Sharma 0001</author>
+<title>PRIME-FP20: Ultra-Widefield Fundus Photography Vessel Segmentation Dataset.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/ctgj-1367</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Lamsal22">
+<author orcid="0000-0002-2182-3001">Rabindra Lamsal</author>
+<title>Coronavirus (COVID-19) Tweets Sentiment Trend.</title>
+<year>2022</year>
+<month>November</month>
+<ee type="oa">https://doi.org/10.21227/t263-8x74</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MeshramTRCP20">
+<author orcid="0000-0001-9950-584X">Vishal A. Meshram</author>
+<author>Koravat Thanomliang</author>
+<author>Supawadee Ruangkan</author>
+<author>Prawit Chumchu</author>
+<author orcid="0000-0002-1046-9860">Kailas Patil</author>
+<title>FruitsGB: Top Indian Fruits with quality.</title>
+<year>2020</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.21227/gzkn-f379</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Huang22a">
+<author>Deshun Huang</author>
+<title>Data of paper "An Intelligent Recognition Method of a Short-Gap Arc in Aviation Cables Based on Feature Weight Enhancement".</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/tfx5-yb58</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/KayodeY20">
+<author orcid="0000-0001-6896-1076">John Stephen Kayode</author>
+<author>Yusri Yusup</author>
+<title>A novel fusion Python application of data mining techniques to evaluate airborne magnetic datasets.</title>
+<year>2020</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/9s34-kc72</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Li22d">
+<author orcid="0000-0002-6575-1839">Yun Li 0002</author>
+<title>Paradox-free analysis for comparing the performance of optimization algorithms.</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/z7gb-np68</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Scrofani22">
+<author>Gabriele Scrofani</author>
+<title>Videos - Optical sectioning microscopy through single-shot lightfield protocol.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/ft3z-9y17</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZiaK21">
+<author>Shafaq Zia</author>
+<author>Ali Nawaz Khan</author>
+<title>Activities of Daily livings using a Portable EEG Headset.</title>
+<year>2021</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/mtwx-p951</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Baheri21">
+<author>Betis Baheri</author>
+<title>Temporal Analysis of Quantum Errors in NISQ Computers: an Empirical Study.</title>
+<year>2021</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/bjfa-hs39</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Lu22d">
+<author>Hao Lu</author>
+<title>Experimental Data of 20 Drivers.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/8enf-t079</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wang20h">
+<author>San Wang</author>
+<title>hyperspectral Dataset.</title>
+<year>2020</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/eqk7-wa46</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BeradyJTG22">
+<author orcid="0000-0001-7515-271X">Aimad Berady</author>
+<author orcid="0000-0002-5714-3251">Mathieu Jaume</author>
+<author orcid="0000-0003-4838-2952">Valaeacute;rie Viet Triem Tong</author>
+<author>Gilles Guette</author>
+<title>PWNJUTSU dataset.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/ngjr-kh92</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/WangN22">
+<author orcid="0000-0002-7589-7954">Zheng Wang 0039</author>
+<author>Edric John Cruz Nacpil</author>
+<title>Surface Electromyography-controlled Pedestrian Collision Avoidance: A Driving Simulator Study.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/stjv-9c37</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PradhanHJ22a">
+<author>Ashirbad Pradhan</author>
+<author>Jiayuan He 0001</author>
+<author>Ning Jiang</author>
+<title>Forearm sEMG from hand and wrist gestures.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/n9rt-p854</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JooshakiKLMF21">
+<author orcid="0000-0001-6442-7538">Mohammad Jooshaki</author>
+<author>Sahand Karimi-Arpanahi</author>
+<author>Matti Lehtonen</author>
+<author>R. John Millar</author>
+<author>Mahmud Fotuhi-Firuzabad</author>
+<title>Test Distribution Networks for Reliability-Based Studies.</title>
+<year>2021</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/79a7-3x76</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yan22">
+<author>Haoyuan Yan</author>
+<title>Parameters of coupled transportation power network.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/tpve-ck70</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zimoch18">
+<author>Michael Zimoch</author>
+<title>Process Models.</title>
+<year>2018</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/fhxn-bn31</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Sahu19">
+<author>Raj Sahu</author>
+<title>Electric Generator Metamodel.</title>
+<year>2019</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/wzwn-t754</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TorquatoAF21">
+<author orcid="0000-0001-6763-2764">Ricardo Torquato</author>
+<author orcid="0000-0003-2084-4342">Andraeacute;s Argauuml;ello</author>
+<author orcid="0000-0002-2042-6741">Walmir Freitas</author>
+<title>Supporting Scripts for Stability Analysis on Type-III Wind Generators.</title>
+<year>2021</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/36zj-4k71</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SlavakisS22">
+<author orcid="0000-0002-3370-3154">Konstantinos Slavakis</author>
+<author>Gaurav N. Shetty</author>
+<title>Kernel Regression Imputation in Manifolds: Videos of dMRI data.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/tary-nv39</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Nguyen22c">
+<author orcid="0000-0003-4590-6159">Sang Nguyen</author>
+<title>multi-carpark occupancy.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/ax7g-af06</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LindhL22">
+<author>Pia Lindh</author>
+<author>Lasse I. E. Laurila</author>
+<title>Log loader driving with energy converter.</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/6xgh-gb33</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Kumar22">
+<author>Anupam Kumar</author>
+<title>Cardiovascular disease dataset.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/ec0s-m010</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Phatak21">
+<author>Madhura Phatak</author>
+<title>Image and Video Aesthetics.</title>
+<year>2021</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/ht0r-wr68</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Guan23">
+<author>Zhangjie Guan</author>
+<title>TEP.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/49m8-sb27</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/RachmawatiSN22">
+<author orcid="0000-0003-3693-7228">Ema Rachmawati</author>
+<author>Mahmud Dwi Sulistiyo</author>
+<author>Dimas Nugraha</author>
+<title>Bone Scan Image Semantic Segmentation.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/ky0w-fp32</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Najarro22">
+<author>Lismer Andres Caceres Najarro</author>
+<title>Fast Localization with Unknown Transmit Power and Path-Loss Exponent in WSNs Based on RSS Measurements.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/9wbt-6s35</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BhadraH22">
+<author>Ananta Bhadra</author>
+<author orcid="0000-0001-9395-4169">Reza Jalilzadeh Hamidi</author>
+<title>A Guidebook on Jiles-Atherton Model Parameter Approximation Based on Simulated B-H Curves.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/my4x-mz70</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MengH22">
+<author orcid="0000-0002-9915-7088">Qing-Hao Meng</author>
+<author orcid="0000-0002-4608-273X">Hui-Rang Hou</author>
+<title>Electronic nose dataset for recognition of eight liquor types.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/7zch-5585</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LiuKSL21">
+<author>Mochi Liu</author>
+<author orcid="0000-0001-7181-232X">Sandeep Kumar</author>
+<author orcid="0000-0001-5061-9731">Anuj K. Sharma</author>
+<author>Andrew M. Leifer</author>
+<title>Data for a high-throughput method to deliver targeted optogenetic stimulation to moving C. elegans populations.</title>
+<year>2021</year>
+<month>December</month>
+<ee type="oa">https://doi.org/10.21227/t6b0-bc36</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhouWZWW23">
+<author>Yidan Zhou</author>
+<author>Jiale Wang</author>
+<author>Yao Zhang</author>
+<author>Jingdong Wei</author>
+<author>Jianxue Wang</author>
+<title>A Fully-Decentralized Transactive Energy Management under Distribution Network Constraints via Peer-to-Peer Energy Trading.</title>
+<year>2023</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/zhmg-em69</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LazzezOA21a">
+<author>Onsa Lazzez</author>
+<author>Wael Ouarda</author>
+<author orcid="0000-0002-0642-3384">Adel M. Alimi</author>
+<title>SmartCityZen database.</title>
+<year>2021</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.21227/9xt8-1f82</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Hartmann22">
+<author orcid="0000-0001-5386-3799">Gabriel Hartmann</author>
+<title>Multi-vehicle race log.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/00cg-bt27</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Ibrahim22">
+<author orcid="0000-0003-1286-5485">Muhammad Ibrahim</author>
+<title>Dataset for Task scheduling in Cloud using CLoudsim.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/px5b-b729</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Egorov22">
+<author orcid="0000-0003-1891-4487">Dobroslav P. Egorov</author>
+<title>Experimental data on descending radiation of atmosphere in the resonance absorption band of water vapor 18 - 27.2 GHz.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/sqvd-bx80</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/NicholsHMMBW19">
+<author orcid="0000-0002-1668-6882">William R. Nichols</author>
+<author>Watts S. Humphrey</author>
+<author>Julia Mullaney</author>
+<author>James McHale</author>
+<author>Dan Burton</author>
+<author>Alan Willett</author>
+<title>PSP Student Assignment Data.</title>
+<year>2019</year>
+<month>October</month>
+<ee type="oa">https://doi.org/10.21227/a5vb-cf02</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/KarakocaNSKG22">
+<author orcid="0000-0002-2613-2605">Erhan Karakoca</author>
+<author>Hasan Nayir</author>
+<author>Gizem Sauuml;men</author>
+<author orcid="0000-0001-7188-2619">Gauuml;nes Karabulut Kurt</author>
+<author orcid="0000-0003-4981-0488">Ali Gaouml;raccedil;in</author>
+<title>sub-THz Wireless Channel Measurements.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/txmh-mz22</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BaiLH21">
+<author orcid="0000-0002-0240-8152">Yanhu Bai</author>
+<author orcid="0000-0002-2619-7572">Jianli Luo</author>
+<author orcid="0000-0002-9929-5835">Yidan Hu</author>
+<title>2171 publications from WoS.</title>
+<year>2021</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.21227/r4ng-3k16</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhu19">
+<author>Guohun Zhu</author>
+<title>Datasets for "Graph Analysis of Single-Channel Sleep Stage EEG with Different Electrode Placements".</title>
+<year>2019</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/fh5d-kv21</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wang22u">
+<author orcid="0000-0002-7383-276X">Simin Wang</author>
+<title>Included Papers, venues and partial data for TSE.</title>
+<year>2022</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/xcg0-ad18</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Mo19">
+<author>Weike Mo</author>
+<title>Power System Oscillation Mode Prediction Data.</title>
+<year>2019</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/8dvt-6c38</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/FormisanoGV22">
+<author orcid="0000-0002-6755-9314">Andrea Formisano 0001</author>
+<author orcid="0000-0002-4400-3137">Raffaella Gentilini</author>
+<author orcid="0000-0002-5676-9228">Flavio Vella</author>
+<title>Dataset_ScalableEnergyGamesSolversOnGPUs.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/m3ab-xv34</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wang22s">
+<author>Jue Wang</author>
+<title>Training dataset of "Design of Fully Controllable and Continuous Programmable Surface Based on Machine Learning".</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/j49f-xh11</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SinghIMKK22">
+<author>Chanavi Singh</author>
+<author>Purva Ingle</author>
+<author orcid="0000-0001-6282-5647">Vedant Modi</author>
+<author>Pranali K. Kosamkar</author>
+<author>Vrushali Y. Kulkarni</author>
+<title>Dragon Fruit Image Dataset.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/7c17-7112</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HuiSBAG22">
+<author>Dennis Hui</author>
+<author>Sara Sandberg</author>
+<author>Yufei W. Blankenship</author>
+<author>Mattias Andersson</author>
+<author>Leefke Grosjean</author>
+<title>Channel Coding in 5G New Radio: Tutorial Overview and Performance Comparison with 4G LTE.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/dq3x-8a54</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PapadopoulosBKDMCK21">
+<author orcid="0000-0001-6384-1964">Theofilos A. Papadopoulos</author>
+<author orcid="0000-0001-9192-4337">Georgios A. Barzegkar-Ntovom</author>
+<author orcid="0000-0002-7593-1761">Georgios C. Kryonidis</author>
+<author>Dimitrios I. Doukas</author>
+<author orcid="0000-0002-1457-9610">Antonios Marinopoulos</author>
+<author orcid="0000-0002-7612-6123">Catalin-Felix Covrig</author>
+<author orcid="0000-0001-7595-9038">Eleftherios O. Kontis</author>
+<title>High resolution profiles of residential appliances.</title>
+<year>2021</year>
+<month>February</month>
+<ee type="oa">https://doi.org/10.21227/yz3w-ca81</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/YehSKKS18">
+<author>Jyh-haw Yeh</author>
+<author>Hung-Min Sun</author>
+<author>Ujwal Karki</author>
+<author>Daniel Kondratyuk</author>
+<author>Ning Shen</author>
+<title>Integrity Coded Databases - Protecting Data Integrity for Outsourced Databases.</title>
+<year>2018</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/H21660</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/GradovN18d">
+<author>Oleg Gradov</author>
+<author>P. A. Nasirov</author>
+<title>Microfluidic Lab-on-a-dish (3D printing).</title>
+<year>2018</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/rvzk-1q30</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PaezGranadosHGHB22">
+<author orcid="0000-0002-6143-1432">Diego Paez-Granados</author>
+<author>Yujie He</author>
+<author>David J. Gonon</author>
+<author>Lukas Huber</author>
+<author orcid="0000-0002-7076-8010">Aude Billard</author>
+<title>3D point cloud and RGBD of pedestrians in robot crowd navigation: detection and tracking.</title>
+<year>2022</year>
+<month>December</month>
+<ee type="oa">https://doi.org/10.21227/ak77-d722</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Gradov20e">
+<author>Oleg Gradov</author>
+<title>Epidermis of allium: FFTW-based regulometry case.</title>
+<year>2020</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/mrb5-w277</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/VerreMDCPP22">
+<author orcid="0000-0003-3331-5140">Wouter Van Verre</author>
+<author orcid="0000-0002-4302-7487">Liam A. Marsh</author>
+<author>John L. Davidson</author>
+<author>Edward Cheadle</author>
+<author orcid="0000-0002-5228-4602">Frank J. W. Podd</author>
+<author orcid="0000-0002-5740-348X">Anthony J. Peyton</author>
+<title>Magnetic Induction Spectroscopy Data of Buried Objects.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/dexz-8p96</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Invernizzi19">
+<author orcid="0000-0003-4525-8921">Laurent Invernizzi</author>
+<title>KI-starch solution during plasma jet treatment.</title>
+<year>2019</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/b5kx-fx16</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/KumsettyN22">
+<author orcid="0000-0001-9844-4766">Nikhil Venkat Kumsetty</author>
+<author orcid="0000-0001-5199-5317">Amith Bhat Nekkare</author>
+<title>TrashBox.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/csg6-h017</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/RossaneseMGSAC22">
+<author orcid="0000-0002-5406-4283">Marco Rossanese</author>
+<author orcid="0000-0003-0338-126X">Placido Mursia</author>
+<author orcid="0000-0003-2005-2222">Andres Garcia-Saavedra</author>
+<author orcid="0000-0002-0680-7150">Vincenzo Sciancalepore</author>
+<author orcid="0000-0001-9946-4793">Arash Asadi</author>
+<author orcid="0000-0002-9654-6109">Xavier Costa-Paeacute;rez</author>
+<title>RIS-Power-Measurements-Dataset.</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/tj39-zr48</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ArbelleCR21">
+<author>Assaf Arbelle</author>
+<author>Shaked Cohen</author>
+<author>Tammy Riklin Raviv</author>
+<title>BGUSIM.</title>
+<year>2021</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/4m12-m288</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Liu22g">
+<author>Xin Liu</author>
+<title>A MIMR WPT System with An Output of 3.3 kW - 20 kW.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/x7pn-8x84</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Guan22">
+<author>Yongsheng Guan</author>
+<title>banking sector data for loans.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/pmrg-n341</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Maier20">
+<author orcid="0000-0002-0965-5746">Jauuml;rgen Maier 0002</author>
+<title>Evaluation Files for the Involution Delay Model.</title>
+<year>2020</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/4hgv-p596</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Hu20">
+<author>Wenkang Hu</author>
+<title>real world Chinese mathematics dataset.</title>
+<year>2020</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/p6ck-sf97</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Nguyen20">
+<author orcid="0000-0002-5646-8505">Thanh Phuong Nguyen</author>
+<title>UTLN-Reflection.</title>
+<year>2020</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/xj65-4921</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/FlorenciasOliverosERPSF18a">
+<author>Olivia Florencias-Oliveros</author>
+<author>Manuel-Jesus Espinosa-Gavira</author>
+<author>Juan Josaeacute; Gonzaaacute;lez de la Rosa</author>
+<author>A. Agauuml;era Paeacute;rez</author>
+<author>Josaeacute; Carlos Palomares Salas</author>
+<author>Josaeacute; Maraiacute;a Sierra Fernaaacute;ndez</author>
+<title>Real-life Power Quality Sags.</title>
+<year>2018</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/H2K88D</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Saavedra20">
+<author>Raphael Saavedra</author>
+<title>Data for Unlocking Reserves with Smart Transmission Switching.</title>
+<year>2020</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/r950-rv02</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TahirK20">
+<author>Ghalib Ahmed Tahir</author>
+<author>Loo Chu Kiong</author>
+<title>MF-150: Multilabel Malaysian Foods Dataset For Ingredient Detection.</title>
+<year>2020</year>
+<month>December</month>
+<ee type="oa">https://doi.org/10.21227/0qkg-8j12</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Chen20d">
+<author orcid="0000-0002-9455-0833">Zhi-Hao Chen</author>
+<title>Mask-RCNN detection of COVID-19 pneumonia symptoms by employing Stacked Autoencoders in deep unsupervised learning on Low-Dose High Resolution CT.</title>
+<year>2020</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.21227/4kcm-m312</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Li22f">
+<author>Yongshang Li</author>
+<title>Time-Optimal Qubit Mapping and Gate Scheduling Adapted to Neutral Atom Quantum Computing.</title>
+<year>2022</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/y7bp-6874</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/EdoimioyaO22">
+<author>Nosakhare Edoimioya</author>
+<author>Chinedum Emmanuel Okwudire</author>
+<title>Dataset for "A Generalized and Efficient Control-oriented Modeling Approach for Vibration-prone Delta 3D printers using Receptance Coupling".</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/ta5m-xe98</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Mejia22">
+<author orcid="0000-0001-5777-5905">Camilo Hernandez Mejia</author>
+<title>Time-reversed Impact Dataset.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/axpd-j094</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Behner22">
+<author orcid="0000-0001-6216-8878">Florian Behner</author>
+<title>Characterization of the PAZ X band SAR Using the HITCHHIKER Ground Receiver.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/66tm-yj09</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Cseke22">
+<author>Bethany Cseke</author>
+<title>Muscle Activation Results.</title>
+<year>2022</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/ptkc-vf87</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhu20">
+<author>Chengke Zhu</author>
+<title>data for "The impact of financial leasing on sales".</title>
+<year>2020</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/18de-fh07</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhang20">
+<author>Haijun Zhang</author>
+<title>Zh-ConceptNet.</title>
+<year>2020</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/mbz1-xj52</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Potapov22">
+<author orcid="0000-0002-4864-0993">Alexander S. Potapov</author>
+<title>Dataset of IAR harmonic frequencies and their ratios.</title>
+<year>2022</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/19sy-y827</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ZhengW22">
+<author>Zhiwen Zheng</author>
+<author>Qingshan Wang</author>
+<title>Sign Language Quality Assessment Dataset.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/88f4-8b42</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/NeslerTDRG22">
+<author>Christopher Nesler</author>
+<author>Gray C. Thomas</author>
+<author>Nikhil Divekar</author>
+<author>Elliott J. Rouse</author>
+<author>Robert D. Gregg</author>
+<title>Bill of Materials and Component CAD for a Modular Exoskeleton.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/byxv-z533</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/MilaniH20">
+<author orcid="0000-0002-6929-3687">Mojtaba Khaghani Milani</author>
+<author orcid="0000-0002-3518-9195">Mahmoud Reza Hashemi</author>
+<title>Cross-domain Ontology of Web Application over Encrypted Data.</title>
+<year>2020</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/6nhk-3t43</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/HuangCLH22">
+<author>Sin-Han Huang</author>
+<author>Tzu-Yin Chao</author>
+<author>Mark Po-Hung Lin</author>
+<author orcid="0000-0002-4382-5083">Ching-Chun Huang</author>
+<title>Dataset of SSIOE (Self-Supervised Indoor Occupancy Estimation for Intelligent Building Management).</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/j35y-wz56</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/RajagopalSZB19">
+<author>Suganya Rajagopal</author>
+<author>Umberto Sciacca</author>
+<author>Achille Zirizzotti</author>
+<author orcid="0000-0001-8596-1377">James Arokiasamy Baskaradas</author>
+<title>Low Frequency Antenna for Glaciers.</title>
+<year>2019</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/qyaa-y198</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/JESRA21">
+<author orcid="0000-0001-7958-339X">Jayakanth J. J</author>
+<author orcid="0000-0002-8477-2387">Praveen Elumalai</author>
+<author>Ovean S</author>
+<author>Hariharan N. R</author>
+<author>Mohammed Riyas A</author>
+<title>LoRa based Wireless Sensor Network for Environmental Monitoring - Dataset.</title>
+<year>2021</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/2g7j-e111</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/OzdemirB22">
+<author>Ahmet Turan aOuml;zdemir</author>
+<author>Billur Barshan</author>
+<title>Simulated Falls and Daily Living Activities Data Set Data Set.</title>
+<year>2022</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/eqmh-8m79</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BarralEGS22">
+<author orcid="0000-0001-8750-7960">Valentaiacute;n Barral</author>
+<author orcid="0000-0002-3877-1332">Carlos J. Escudero</author>
+<author orcid="0000-0002-1944-4678">Josaeacute; Antonio Garcaiacute;a-Naya</author>
+<author orcid="0000-0001-6956-8428">Pedro Suaaacute;rez-Casal</author>
+<title>Environment cross validation of NLOS machine learning classification/mitigation in low-cost UWB positioning systems.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/rhhs-fw33</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Lee20b">
+<author orcid="0000-0002-7751-0450">Seunghyun Lee</author>
+<title>Fully automated insulin treatment.</title>
+<year>2020</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/z0nt-z923</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Shen23">
+<author orcid="0000-0002-1636-5712">Xinwei Shen 0001</author>
+<title>30/62 Wind Turbines Offshore Wind Farm Electric Collector System Planning data sets.</title>
+<year>2023</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/vng3-tf47</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LinWZ22">
+<author>Shuguang Lin</author>
+<author>Ying-Ming Wang</author>
+<author>Fan Zhang</author>
+<title>Five DRGs.</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/5zsf-2529</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/NnoliK22">
+<author>Kosisochukwu Pal Nnoli</author>
+<author>Stefan Kettemann</author>
+<title>Supplementary Material for "Spreading of Disturbances in Realistic Models of Transmission Grids: Dependence on Topology, Inertia and Heterogeneity".</title>
+<year>2022</year>
+<month>February</month>
+<ee>https://doi.org/10.21227/pjpt-nk47</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/SunY21">
+<author>Tianli Sun</author>
+<author>Can Yang</author>
+<title>IPTV dataset.</title>
+<year>2021</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/wqy2-h486</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/BehdadniaP21">
+<author>Tohid Behdadnia</author>
+<author>Mehmet Parlak</author>
+<title>Mitigating Erroneous PMU measurements via an ANN to Enhance ML-based Transient Stability Prediction Accuracy.</title>
+<year>2021</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/b9kg-6c55</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Bansal23a">
+<author orcid="0000-0002-2572-9004">Abhishek Bansal</author>
+<title>Data : 9-DoF Personal Robot Servant.</title>
+<year>2023</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/r4w8-br34</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Unal21">
+<author>Devrim Unal</author>
+<title>BlueTack.</title>
+<year>2021</year>
+<month>January</month>
+<ee>https://doi.org/10.21227/skhs-0b39</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yang22f">
+<author>Hong Yang</author>
+<title>Lake Depth.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/4wb3-a027</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/He21">
+<author>Kai He</author>
+<title>JCBIE.</title>
+<year>2021</year>
+<month>December</month>
+<ee>https://doi.org/10.21227/37c0-rf35</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/DufumierGVAFD22">
+<author>Benoit Dufumier</author>
+<author>Antoine Grigis</author>
+<author>Julie Victor</author>
+<author>Corentin Ambroise</author>
+<author>Vincent Frouin</author>
+<author>Edouard Duchesnay</author>
+<title>OpenBHB: a Multi-Site Brain MRI Dataset for Age Prediction and Debiasing.</title>
+<year>2022</year>
+<month>September</month>
+<ee type="oa">https://doi.org/10.21227/7jsg-jx57</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/TuiaMSB19">
+<author orcid="0000-0003-0374-2459">Devis Tuia</author>
+<author orcid="0000-0002-3796-2938">Gabriele Moser</author>
+<author orcid="0000-0001-7162-6746">Bertrand Le Saux</author>
+<author orcid="0000-0001-8802-7934">Benjamin Bechtel</author>
+<title>Data Fusion Contest 2017 (DFC2017).</title>
+<year>2019</year>
+<month>October</month>
+<ee type="oa">https://doi.org/10.21227/e56j-eh82</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Colli19">
+<author>Matteo Colli</author>
+<title>Rainfall fields monitoring based on satellite microwave down-links and traditional techniques in the City of Genoa.</title>
+<year>2019</year>
+<month>April</month>
+<ee>https://doi.org/10.21227/97ty-dp09</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhang19d">
+<author orcid="0000-0002-3771-6964">Zhi-Heng Zhang</author>
+<title>Four arff multivariate time-series.</title>
+<year>2019</year>
+<month>June</month>
+<ee>https://doi.org/10.21227/e931-6h72</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhao22a">
+<author>Liutao Zhao</author>
+<title>Test data for Regulatable Mechanism for Transacting Data Assets.</title>
+<year>2022</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/rxh5-5221</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/RubioSierra21">
+<author orcid="0000-0002-3583-8167">Carlos Rubio-Sierra</author>
+<title>Complete results for article: Maneuver Optimization for Simultaneous Airspeed Calibration and Wind Estimation.</title>
+<year>2021</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/4y9y-4062</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/NowrooziSC22">
+<author orcid="0000-0002-5714-8378">Ehsan Nowroozi</author>
+<author>Seyedsadra Seyedshoari</author>
+<author orcid="0000-0002-3612-1934">Mauro Conti</author>
+<title>SPRITZ-PS: Validation of Synthetic Face Images Using a Large Dataset of Printed Documents.</title>
+<year>2022</year>
+<month>September</month>
+<ee>https://doi.org/10.21227/f1fx-sq21</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhang21b">
+<author>Haineng Zhang</author>
+<title>related data for SRAM cells.</title>
+<year>2021</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/rjn9-et15</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LijoQCH22">
+<author orcid="0000-0002-1545-5337">Ruben Lijo</author>
+<author orcid="0000-0002-5415-3446">Eduardo Quevedo</author>
+<author orcid="0000-0002-9305-263X">Josaeacute; Juan Castro</author>
+<author orcid="0000-0003-3536-4595">Ricard Horta-Bernus</author>
+<title>Didactic Videos Integration in "Electrical Machines I" subject (BSc in Electrical Engineering from ESEIAAT - UPC).</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/x5pn-m995</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhao22d">
+<author orcid="0000-0003-0184-6553">Tianyang Zhao</author>
+<title>Networked hybrid AC/DC microgrids with nonlinear conversion losses.</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/ayrv-ff02</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Bian19a">
+<author>Wei Bian</author>
+<title>3_multi-media-of-figure5.</title>
+<year>2019</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/gxww-m936</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Wawage21">
+<author>Pawan Wawage</author>
+<title>Driver Behavior Analysis Based on Smartphone Sensor Data.</title>
+<year>2021</year>
+<month>March</month>
+<ee type="oa">https://doi.org/10.21227/k4n4-0r69</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AboElreesh22a">
+<author orcid="0000-0002-7333-9713">Iman Mohammed Attia Abd El-Khalik Abo-Elreesh</author>
+<title>CTMC Analyzing NAFLD Progression (Small Model).</title>
+<year>2022</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/az1b-x326</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/AlDweikA22">
+<author orcid="0000-0002-3487-3438">Arafat Al-Dweik</author>
+<author>Tasneem Assaf</author>
+<title>Exact Bit Error-Rate Analysis of Two-User NOMA Using QAM with Arbitrary Modulation Orders.</title>
+<year>2022</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/8pqz-p163</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yang22c">
+<author>Zhixiong Yang</author>
+<title>Chinese character gesture data.</title>
+<year>2022</year>
+<month>August</month>
+<ee>https://doi.org/10.21227/sa2g-8r42</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Lin22d">
+<author orcid="0000-0002-3273-0783">Zhongqi Lin</author>
+<title>Butterfly Specimens.</title>
+<year>2022</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/baeg-m011</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/LegariaPenaTRG20">
+<author orcid="0000-0003-2432-5371">Juan Uriel Legaria-Peantilde;a</author>
+<author orcid="0000-0002-0646-3925">Alejandro Ian Amador Tejada</author>
+<author orcid="0000-0002-1876-2092">Jaime Fabian Vaaacute;zquez De la Rosa</author>
+<author>Lucaiacute;a Medina Gaoacute;mez</author>
+<title>Sample EMG Signal.</title>
+<year>2020</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/mra1-sz96</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Yunus19">
+<author orcid="0000-0002-7263-5182">Rumshaa Yunus</author>
+<title>Vi-HaB data.</title>
+<year>2019</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/8hxm-3303</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/PurnayeK22a">
+<author orcid="0000-0002-0224-2762">Prasad Purnaye</author>
+<author orcid="0000-0003-2982-8998">Vrushali Y. Kulkarni</author>
+<title>Memory Dumps of Virtual Machines for Cloud Forensics.</title>
+<year>2022</year>
+<month>October</month>
+<ee>https://doi.org/10.21227/ft6c-2915</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/GongYHMP20">
+<author orcid="0000-0002-4537-0078">Yuan Gong</author>
+<author orcid="0000-0002-4596-7683">Jian Yang 0018</author>
+<author>Jacob Huber</author>
+<author>Mitchell MacKnight</author>
+<author orcid="0000-0002-0599-7941">Christian Poellabauer</author>
+<title>ReMASC: Realistic Replay Attack Corpus for Voice Controlled Systems.</title>
+<year>2020</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.21227/1mhq-c052</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/ColuzziBCL22">
+<author orcid="0000-0001-5601-7870">Massimo Coluzzi</author>
+<author orcid="0000-0002-0262-2044">Amos Brocco</author>
+<author orcid="0000-0003-1332-228X">Patrizio Contu</author>
+<author orcid="0000-0002-6335-7977">Tiziano Leidi</author>
+<title>Clustered Distribution for Consistent Hashing Algorithms.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/r6ps-dz05</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Gradov20i">
+<author>Oleg Gradov</author>
+<title>Towards the connectome-like structure formation in composite polymeric iCHELL-like assemblies (micrographs before 2010). Examples for self-organizing maps applicabilities.</title>
+<year>2020</year>
+<month>November</month>
+<ee>https://doi.org/10.21227/z27v-kd15</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Gao22a">
+<author>Xinan Gao</author>
+<title>result.</title>
+<year>2022</year>
+<month>July</month>
+<ee>https://doi.org/10.21227/apx8-p733</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Fink20">
+<author orcid="0000-0003-3018-5993">Geoff Fink</author>
+<title>Proprioceptive Sensor Dataset for Quadruped Robots.</title>
+<year>2020</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.21227/4vxz-xw05</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+<data mdate="2023-03-15" key="data/10/Zhang20g">
+<author>Mingwei Zhang</author>
+<title>Beijing Building Dataset.</title>
+<year>2020</year>
+<month>March</month>
+<ee>https://doi.org/10.21227/5vtc-gn25</ee>
+<publisher>IEEE DataPort</publisher>
+</data>
+</dblp>
